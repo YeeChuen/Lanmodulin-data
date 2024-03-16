@@ -1,5 +1,5 @@
 # Author: Yee Chuen Teoh
-# python3 build_ef_data.py
+# python build_ef_struct_data.py
 from zipfile import ZipFile
 import os
 
@@ -18,15 +18,15 @@ def extractZip(example_zip_file):
         file_extract = file_to_extract[0]
         zip.extract(file_extract)
 
-example_zip_file = "/Users/Chuen/Documents/vsc projects/lanmodulin_project/_batches/results/batch00/ACA18767-1.result.zip"
+example_zip_file = "./_batches/results/batch00/ACA18767-1.result.zip"
 
-zip_directory = "/Users/Chuen/Documents/vsc projects/lanmodulin_project/_batches/results"
+zip_directory = "./_batches/results"
 batches = os.listdir(zip_directory)
 batches.sort(key = lambda x: int(x[-2:]))
 
-if not os.path.exists("/Users/Chuen/Documents/vsc projects/lanmodulin_project/pdbs"):
-    os.mkdir("/Users/Chuen/Documents/vsc projects/lanmodulin_project/pdbs")
-os.chdir("/Users/Chuen/Documents/vsc projects/lanmodulin_project/pdbs")
+if not os.path.exists("./pdbs"):
+    os.mkdir("./pdbs")
+os.chdir("./pdbs")
 
 total = 0
 for batch in batches:
@@ -44,7 +44,7 @@ for batch in batches:
             extractZip(f"{zip_directory}/{batch}/{z}") # <-- only extract if it does not exist
 
 # extract EF hand.
-pdb_path = "/Users/Chuen/Documents/vsc projects/lanmodulin_project/pdbs"
+pdb_path = "./pdbs"
 pdb_list = os.listdir(pdb_path)
 pdb_list = [f"{pdb_path}/{p}" for p in pdb_list]
 

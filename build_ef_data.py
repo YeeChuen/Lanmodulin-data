@@ -40,7 +40,7 @@ for i in range(len(ef_locations)):
 
         ef_num += 1
         
-with open("EFhand.fasta", "w") as f:
+with open("EFhands.fasta", "w") as f:
     for i, x in enumerate(result):
         if i % 2 == 0:
             f.write(f">{x}\n")
