@@ -1,0 +1,1263 @@
+index: 0 (Tag, batch_no) = ('WP_208821226-1', 0)
+
+index: 1 (Tag, batch_no) = ('MBV8448326-1', 0)
+
+index: 2 (Tag, batch_no) = ('WP_027519374-1', 0)
+
+index: 3 (Tag, batch_no) = ('WP_135161825-1', 0)
+
+index: 4 (Tag, batch_no) = ('WP_212081000-1', 0)
+
+index: 5 (Tag, batch_no) = ('WP_048428313-1', 0)
+
+index: 6 (Tag, batch_no) = ('WP_012589863-1', 0)
+
+index: 7 (Tag, batch_no) = ('WP_091751985-1', 0)
+
+index: 8 (Tag, batch_no) = ('WP_244027711-1', 0)
+
+index: 9 (Tag, batch_no) = ('WP_091778407-1', 0)
+
+index: 10 (Tag, batch_no) = ('WP_162406692-1', 0)
+
+index: 11 (Tag, batch_no) = ('WP_026190475-1', 0)
+
+index: 12 (Tag, batch_no) = ('ACA18767-1', 0)
+
+index: 13 (Tag, batch_no) = ('WP_056481197-1', 0)
+
+index: 14 (Tag, batch_no) = ('WP_183395182-1', 0)
+
+index: 15 (Tag, batch_no) = ('WP_018042885-1', 0)
+
+index: 16 (Tag, batch_no) = ('WP_156505554-1', 0)
+
+index: 17 (Tag, batch_no) = ('WP_247500718-1', 0)
+
+index: 18 (Tag, batch_no) = ('WP_141339827-1', 0)
+
+index: 19 (Tag, batch_no) = ('WP_163160116-1', 0)
+
+index: 20 (Tag, batch_no) = ('TMK09117-1', 0)
+
+index: 21 (Tag, batch_no) = ('WP_225182849-1', 0)
+
+index: 22 (Tag, batch_no) = ('WP_144763426-1', 0)
+
+index: 23 (Tag, batch_no) = ('WP_027562366-1', 0)
+
+index: 24 (Tag, batch_no) = ('WP_231077921-1', 0)
+
+index: 25 (Tag, batch_no) = ('SFK60845-1', 0)
+
+index: 26 (Tag, batch_no) = ('WP_175556313-1', 0)
+
+index: 27 (Tag, batch_no) = ('WP_243969199-1', 0)
+
+index: 28 (Tag, batch_no) = ('MBC7833051-1', 0)
+
+index: 29 (Tag, batch_no) = ('MBE7202413-1', 0)
+
+index: 30 (Tag, batch_no) = ('WP_212402844-1', 0)
+
+index: 31 (Tag, batch_no) = ('MBX9925158-1', 0)
+
+index: 32 (Tag, batch_no) = ('WP_131870916-1', 0)
+
+index: 33 (Tag, batch_no) = ('WP_025037731-1', 0)
+
+index: 34 (Tag, batch_no) = ('WP_056526017-1', 0)
+
+index: 35 (Tag, batch_no) = ('PWB90889-1', 0)
+
+index: 36 (Tag, batch_no) = ('WP_007601381-1', 0)
+
+index: 37 (Tag, batch_no) = ('MBX3528484-1', 0)
+
+index: 38 (Tag, batch_no) = ('PJI54718-1', 0)
+
+index: 39 (Tag, batch_no) = ('WP_038383444-1', 0)
+
+index: 40 (Tag, batch_no) = ('WP_212361206-1', 0)
+
+index: 41 (Tag, batch_no) = ('WP_128562293-1', 0)
+
+index: 42 (Tag, batch_no) = ('WP_012453714-1', 0)
+
+index: 43 (Tag, batch_no) = ('MBV9462219-1', 0)
+
+index: 44 (Tag, batch_no) = ('WP_247388182-1', 0)
+
+index: 45 (Tag, batch_no) = ('NDB69831-1', 0)
+
+index: 46 (Tag, batch_no) = ('WP_148756035-1', 0)
+
+index: 47 (Tag, batch_no) = ('MBX9864705-1', 0)
+
+index: 48 (Tag, batch_no) = ('WP_212328908-1', 0)
+
+index: 49 (Tag, batch_no) = ('WP_008569482-1', 0)
+
+index: 50 (Tag, batch_no) = ('WP_244024857-1', 1)
+
+index: 51 (Tag, batch_no) = ('WP_229195815-1', 1)
+
+index: 52 (Tag, batch_no) = ('WP_212501448-1', 1)
+
+index: 53 (Tag, batch_no) = ('WP_056305224-1', 1)
+
+index: 54 (Tag, batch_no) = ('MBO0757766-1', 1)
+
+index: 55 (Tag, batch_no) = ('WP_238227663-1', 1)
+
+index: 56 (Tag, batch_no) = ('WP_028340086-1', 1)
+
+index: 57 (Tag, batch_no) = ('WP_137829608-1', 1)
+
+index: 58 (Tag, batch_no) = ('WP_243930616-1', 1)
+
+index: 59 (Tag, batch_no) = ('WP_012042442-1', 1)
+
+index: 60 (Tag, batch_no) = ('WP_003612551-1', 1)
+
+index: 61 (Tag, batch_no) = ('WP_147752526-1', 1)
+
+index: 62 (Tag, batch_no) = ('WP_026233996-1', 1)
+
+index: 63 (Tag, batch_no) = ('WP_196393046-1', 1)
+
+index: 64 (Tag, batch_no) = ('TMJ92523-1', 1)
+
+index: 65 (Tag, batch_no) = ('WP_157327002-1', 1)
+
+index: 66 (Tag, batch_no) = ('WP_142586013-1', 1)
+
+index: 67 (Tag, batch_no) = ('WP_238195950-1', 1)
+
+index: 68 (Tag, batch_no) = ('WP_243975068-1', 1)
+
+index: 69 (Tag, batch_no) = ('MBV9756546-1', 1)
+
+index: 70 (Tag, batch_no) = ('WP_211387066-1', 1)
+
+index: 71 (Tag, batch_no) = ('AWI88669-1', 1)
+
+index: 72 (Tag, batch_no) = ('WP_056483056-1', 1)
+
+index: 73 (Tag, batch_no) = ('MBV9568150-1', 1)
+
+index: 74 (Tag, batch_no) = ('WP_028336943-1', 1)
+
+index: 75 (Tag, batch_no) = ('VVB44714-1', 1)
+
+index: 76 (Tag, batch_no) = ('WP_057020575-1', 1)
+
+index: 77 (Tag, batch_no) = ('WP_068731183-1', 1)
+
+index: 78 (Tag, batch_no) = ('WP_212298685-1', 1)
+
+index: 79 (Tag, batch_no) = ('WP_183572136-1', 1)
+
+index: 80 (Tag, batch_no) = ('WP_048464134-1', 1)
+
+index: 81 (Tag, batch_no) = ('WP_154453488-1', 1)
+
+index: 82 (Tag, batch_no) = ('WP_008139562-1', 1)
+
+index: 83 (Tag, batch_no) = ('WP_007612972-1', 1)
+
+index: 84 (Tag, batch_no) = ('WP_091948391-1', 1)
+
+index: 85 (Tag, batch_no) = ('KZC02975-1', 1)
+
+index: 86 (Tag, batch_no) = ('WP_010685236-1', 1)
+
+index: 87 (Tag, batch_no) = ('WP_158807134-1', 1)
+
+index: 88 (Tag, batch_no) = ('WP_109894740-1', 1)
+
+index: 89 (Tag, batch_no) = ('EBC78536-1', 1)
+
+index: 90 (Tag, batch_no) = ('WP_044418006-1', 1)
+
+index: 91 (Tag, batch_no) = ('WP_165083170-1', 1)
+
+index: 92 (Tag, batch_no) = ('WP_091941328-1', 1)
+
+index: 93 (Tag, batch_no) = ('RUP13001-1', 1)
+
+index: 94 (Tag, batch_no) = ('WP_238256066-1', 1)
+
+index: 95 (Tag, batch_no) = ('SIO63612-1', 1)
+
+index: 96 (Tag, batch_no) = ('WP_159006414-1', 1)
+
+index: 97 (Tag, batch_no) = ('WP_109971873-1', 1)
+
+index: 98 (Tag, batch_no) = ('WP_020094044-1', 1)
+
+index: 99 (Tag, batch_no) = ('WP_010683639-1', 1)
+
+index: 100 (Tag, batch_no) = ('MCH9806346-1', 2)
+
+index: 101 (Tag, batch_no) = ('WP_238201056-1', 2)
+
+index: 102 (Tag, batch_no) = ('MBN9042672-1', 2)
+
+index: 103 (Tag, batch_no) = ('WP_006612493-1', 2)
+
+index: 104 (Tag, batch_no) = ('WP_149531852-1', 2)
+
+index: 105 (Tag, batch_no) = ('WP_128919776-1', 2)
+
+index: 106 (Tag, batch_no) = ('WP_143841061-1', 2)
+
+index: 107 (Tag, batch_no) = ('WP_247636734-1', 2)
+
+index: 108 (Tag, batch_no) = ('WP_043074545-1', 2)
+
+index: 109 (Tag, batch_no) = ('WP_072824650-1', 2)
+
+index: 110 (Tag, batch_no) = ('TMK20926-1', 2)
+
+index: 111 (Tag, batch_no) = ('WP_036280395-1', 2)
+
+index: 112 (Tag, batch_no) = ('WP_196407746-1', 2)
+
+index: 113 (Tag, batch_no) = ('WP_212419141-1', 2)
+
+index: 114 (Tag, batch_no) = ('WP_084143555-1', 2)
+
+index: 115 (Tag, batch_no) = ('WP_061029676-1', 2)
+
+index: 116 (Tag, batch_no) = ('WP_038973402-1', 2)
+
+index: 117 (Tag, batch_no) = ('WP_135176694-1', 2)
+
+index: 118 (Tag, batch_no) = ('WP_181770129-1', 2)
+
+index: 119 (Tag, batch_no) = ('WP_029650947-1', 2)
+
+index: 120 (Tag, batch_no) = ('WP_225712291-1', 2)
+
+index: 121 (Tag, batch_no) = ('WP_076866244-1', 2)
+
+index: 122 (Tag, batch_no) = ('MBE7198988-1', 2)
+
+index: 123 (Tag, batch_no) = ('WP_176529971-1', 2)
+
+index: 124 (Tag, batch_no) = ('WP_238310953-1', 2)
+
+index: 125 (Tag, batch_no) = ('WP_147726351-1', 2)
+
+index: 126 (Tag, batch_no) = ('WP_134491966-1', 2)
+
+index: 127 (Tag, batch_no) = ('MBX9930982-1', 2)
+
+index: 128 (Tag, batch_no) = ('WP_207411967-1', 2)
+
+index: 129 (Tag, batch_no) = ('WP_219319588-1', 2)
+
+index: 130 (Tag, batch_no) = ('RUO99314-1', 2)
+
+index: 131 (Tag, batch_no) = ('WP_028181803-1', 2)
+
+index: 132 (Tag, batch_no) = ('RTL87341-1', 2)
+
+index: 133 (Tag, batch_no) = ('WP_195803164-1', 2)
+
+index: 134 (Tag, batch_no) = ('WP_211405822-1', 2)
+
+index: 135 (Tag, batch_no) = ('TMK40006-1', 2)
+
+index: 136 (Tag, batch_no) = ('WP_238301579-1', 2)
+
+index: 137 (Tag, batch_no) = ('WP_247326340-1', 2)
+
+index: 138 (Tag, batch_no) = ('WP_042675620-1', 2)
+
+index: 139 (Tag, batch_no) = ('WP_159731795-1', 2)
+
+index: 140 (Tag, batch_no) = ('WP_244023816-1', 2)
+
+index: 141 (Tag, batch_no) = ('TAL81953-1', 2)
+
+index: 142 (Tag, batch_no) = ('WP_183434331-1', 2)
+
+index: 143 (Tag, batch_no) = ('WP_197959052-1', 2)
+
+index: 144 (Tag, batch_no) = ('WP_238233545-1', 2)
+
+index: 145 (Tag, batch_no) = ('WP_012320541-1', 2)
+
+index: 146 (Tag, batch_no) = ('PZR84535-1', 2)
+
+index: 147 (Tag, batch_no) = ('WP_169124009-1', 2)
+
+index: 148 (Tag, batch_no) = ('WP_247505865-1', 2)
+
+index: 149 (Tag, batch_no) = ('WP_243968379-1', 2)
+
+index: 150 (Tag, batch_no) = ('WP_008964302-1', 3)
+
+index: 151 (Tag, batch_no) = ('WP_056220352-1', 3)
+
+index: 152 (Tag, batch_no) = ('WP_131870936-1', 3)
+
+index: 153 (Tag, batch_no) = ('WP_238253199-1', 3)
+
+index: 154 (Tag, batch_no) = ('WP_088520414-1', 3)
+
+index: 155 (Tag, batch_no) = ('WP_162308672-1', 3)
+
+index: 156 (Tag, batch_no) = ('MBV8839409-1', 3)
+
+index: 157 (Tag, batch_no) = ('TPQ41916-1', 3)
+
+index: 158 (Tag, batch_no) = ('WP_244004386-1', 3)
+
+index: 159 (Tag, batch_no) = ('MCF3092937-1', 3)
+
+index: 160 (Tag, batch_no) = ('MBE7249430-1', 3)
+
+index: 161 (Tag, batch_no) = ('WP_238223010-1', 3)
+
+index: 162 (Tag, batch_no) = ('TMJ90498-1', 3)
+
+index: 163 (Tag, batch_no) = ('WP_183504693-1', 3)
+
+index: 164 (Tag, batch_no) = ('WP_074121026-1', 3)
+
+index: 165 (Tag, batch_no) = ('WP_220014110-1', 3)
+
+index: 166 (Tag, batch_no) = ('TMJ60510-1', 3)
+
+index: 167 (Tag, batch_no) = ('MBV9738094-1', 3)
+
+index: 168 (Tag, batch_no) = ('WP_038966744-1', 3)
+
+index: 169 (Tag, batch_no) = ('WP_064033039-1', 3)
+
+index: 170 (Tag, batch_no) = ('WP_036257278-1', 3)
+
+index: 171 (Tag, batch_no) = ('WP_243947655-1', 3)
+
+index: 172 (Tag, batch_no) = ('MBV9117515-1', 3)
+
+index: 173 (Tag, batch_no) = ('WP_097675455-1', 3)
+
+index: 174 (Tag, batch_no) = ('WP_091716384-1', 3)
+
+index: 175 (Tag, batch_no) = ('WP_200294917-1', 3)
+
+index: 176 (Tag, batch_no) = ('WP_074826049-1', 3)
+
+index: 177 (Tag, batch_no) = ('TMJ84888-1', 3)
+
+index: 178 (Tag, batch_no) = ('WP_247459591-1', 3)
+
+index: 179 (Tag, batch_no) = ('KAF0210231-1', 3)
+
+index: 180 (Tag, batch_no) = ('NOT71473-1', 3)
+
+index: 181 (Tag, batch_no) = ('HJE23294-1', 3)
+
+index: 182 (Tag, batch_no) = ('MBN9006007-1', 3)
+
+index: 183 (Tag, batch_no) = ('WP_110353709-1', 3)
+
+index: 184 (Tag, batch_no) = ('WP_009864975-1', 3)
+
+index: 185 (Tag, batch_no) = ('WP_080136558-1', 3)
+
+index: 186 (Tag, batch_no) = ('WP_222577430-1', 3)
+
+index: 187 (Tag, batch_no) = ('WP_139863556-1', 3)
+
+index: 188 (Tag, batch_no) = ('WP_246790065-1', 3)
+
+index: 189 (Tag, batch_no) = ('SFL26237-1', 3)
+
+index: 190 (Tag, batch_no) = ('WP_099908472-1', 3)
+
+index: 191 (Tag, batch_no) = ('WP_147818093-1', 3)
+
+index: 192 (Tag, batch_no) = ('WP_246918073-1', 3)
+
+index: 193 (Tag, batch_no) = ('WP_147763725-1', 3)
+
+index: 194 (Tag, batch_no) = ('WP_238201318-1', 3)
+
+index: 195 (Tag, batch_no) = ('WP_147763045-1', 3)
+
+index: 196 (Tag, batch_no) = ('WP_233385312-1', 3)
+
+index: 197 (Tag, batch_no) = ('WP_056349262-1', 3)
+
+index: 198 (Tag, batch_no) = ('WP_249756897-1', 3)
+
+index: 199 (Tag, batch_no) = ('NJM54704-1', 3)
+
+index: 200 (Tag, batch_no) = ('WP_079587042-1', 4)
+
+index: 201 (Tag, batch_no) = ('MBV9564277-1', 4)
+
+index: 202 (Tag, batch_no) = ('WP_184513836-1', 4)
+
+index: 203 (Tag, batch_no) = ('WP_074817190-1', 4)
+
+index: 204 (Tag, batch_no) = ('WP_147852964-1', 4)
+
+index: 205 (Tag, batch_no) = ('WP_050734843-1', 4)
+
+index: 206 (Tag, batch_no) = ('WP_147081983-1', 4)
+
+index: 207 (Tag, batch_no) = ('WP_024342555-1', 4)
+
+index: 208 (Tag, batch_no) = ('WP_130225907-1', 4)
+
+index: 209 (Tag, batch_no) = ('WP_196402109-1', 4)
+
+index: 210 (Tag, batch_no) = ('SHH41772-1', 4)
+
+index: 211 (Tag, batch_no) = ('WP_244012571-1', 4)
+
+index: 212 (Tag, batch_no) = ('WP_199581264-1', 4)
+
+index: 213 (Tag, batch_no) = ('RUP11231-1', 4)
+
+index: 214 (Tag, batch_no) = ('WP_130211755-1', 4)
+
+index: 215 (Tag, batch_no) = ('WP_247027912-1', 4)
+
+index: 216 (Tag, batch_no) = ('WP_128950522-1', 4)
+
+index: 217 (Tag, batch_no) = ('WP_146987503-1', 4)
+
+index: 218 (Tag, batch_no) = ('WP_244026402-1', 4)
+
+index: 219 (Tag, batch_no) = ('WP_018043413-1', 4)
+
+index: 220 (Tag, batch_no) = ('WP_128932460-1', 4)
+
+index: 221 (Tag, batch_no) = ('WP_244067402-1', 4)
+
+index: 222 (Tag, batch_no) = ('WP_183396054-1', 4)
+
+index: 223 (Tag, batch_no) = ('WP_170855175-1', 4)
+
+index: 224 (Tag, batch_no) = ('WP_056212916-1', 4)
+
+index: 225 (Tag, batch_no) = ('WP_076834179-1', 4)
+
+index: 226 (Tag, batch_no) = ('TMJ65499-1', 4)
+
+index: 227 (Tag, batch_no) = ('WP_247484925-1', 4)
+
+index: 228 (Tag, batch_no) = ('TMJ56335-1', 4)
+
+index: 229 (Tag, batch_no) = ('WP_050419331-1', 4)
+
+index: 230 (Tag, batch_no) = ('WP_028137794-1', 4)
+
+index: 231 (Tag, batch_no) = ('WP_108915665-1', 4)
+
+index: 232 (Tag, batch_no) = ('WP_225702852-1', 4)
+
+index: 233 (Tag, batch_no) = ('GJE67748-1', 4)
+
+index: 234 (Tag, batch_no) = ('WP_074125485-1', 4)
+
+index: 235 (Tag, batch_no) = ('MBN9281324-1', 4)
+
+index: 236 (Tag, batch_no) = ('WP_124161803-1', 4)
+
+index: 237 (Tag, batch_no) = ('WP_183257410-1', 4)
+
+index: 238 (Tag, batch_no) = ('WP_212473160-1', 4)
+
+index: 239 (Tag, batch_no) = ('NIQ95624-1', 4)
+
+index: 240 (Tag, batch_no) = ('MBV8613776-1', 4)
+
+index: 241 (Tag, batch_no) = ('MBV8110761-1', 4)
+
+index: 242 (Tag, batch_no) = ('WP_238194742-1', 4)
+
+index: 243 (Tag, batch_no) = ('WP_202073638-1', 4)
+
+index: 244 (Tag, batch_no) = ('WP_100955424-1', 4)
+
+index: 245 (Tag, batch_no) = ('WP_239625597-1', 4)
+
+index: 246 (Tag, batch_no) = ('MCB1513794-1', 4)
+
+index: 247 (Tag, batch_no) = ('WP_247473966-1', 4)
+
+index: 248 (Tag, batch_no) = ('KUO57634-1', 4)
+
+index: 249 (Tag, batch_no) = ('WP_172785576-1', 4)
+
+index: 250 (Tag, batch_no) = ('WP_212291358-1', 5)
+
+index: 251 (Tag, batch_no) = ('WP_212488793-1', 5)
+
+index: 252 (Tag, batch_no) = ('WP_026311941-1', 5)
+
+index: 253 (Tag, batch_no) = ('ARN83387-1', 5)
+
+index: 254 (Tag, batch_no) = ('WP_099954642-1', 5)
+
+index: 255 (Tag, batch_no) = ('WP_166100493-1', 5)
+
+index: 256 (Tag, batch_no) = ('WP_199751885-1', 5)
+
+index: 257 (Tag, batch_no) = ('MBS0252975-1', 5)
+
+index: 258 (Tag, batch_no) = ('WP_014890079-1', 5)
+
+index: 259 (Tag, batch_no) = ('WP_238311161-1', 5)
+
+index: 260 (Tag, batch_no) = ('WP_212071027-1', 5)
+
+index: 261 (Tag, batch_no) = ('WP_050628687-1', 5)
+
+index: 262 (Tag, batch_no) = ('WP_229181265-1', 5)
+
+index: 263 (Tag, batch_no) = ('NBS35359-1', 5)
+
+index: 264 (Tag, batch_no) = ('WP_012631221-1', 5)
+
+index: 265 (Tag, batch_no) = ('WP_166305354-1', 5)
+
+index: 266 (Tag, batch_no) = ('WP_239625637-1', 5)
+
+index: 267 (Tag, batch_no) = ('MBV8793375-1', 5)
+
+index: 268 (Tag, batch_no) = ('MBE7247691-1', 5)
+
+index: 269 (Tag, batch_no) = ('WP_138400988-1', 5)
+
+index: 270 (Tag, batch_no) = ('WP_244011233-1', 5)
+
+index: 271 (Tag, batch_no) = ('BCE24060-1', 5)
+
+index: 272 (Tag, batch_no) = ('WP_243933544-1', 5)
+
+index: 273 (Tag, batch_no) = ('WP_244536190-1', 5)
+
+index: 274 (Tag, batch_no) = ('WP_092083082-1', 5)
+
+index: 275 (Tag, batch_no) = ('WP_195785013-1', 5)
+
+index: 276 (Tag, batch_no) = ('WP_149577835-1', 5)
+
+index: 277 (Tag, batch_no) = ('PPD04341-1', 5)
+
+index: 278 (Tag, batch_no) = ('WP_139174061-1', 5)
+
+index: 279 (Tag, batch_no) = ('WP_147048881-1', 5)
+
+index: 280 (Tag, batch_no) = ('WP_139485493-1', 5)
+
+index: 281 (Tag, batch_no) = ('WP_076859038-1', 5)
+
+index: 282 (Tag, batch_no) = ('WP_128964869-1', 5)
+
+index: 283 (Tag, batch_no) = ('QKP78774-1', 5)
+
+index: 284 (Tag, batch_no) = ('WP_137831829-1', 5)
+
+index: 285 (Tag, batch_no) = ('WP_244027838-1', 5)
+
+index: 286 (Tag, batch_no) = ('WP_243943056-1', 5)
+
+index: 287 (Tag, batch_no) = ('MBE3111189-1', 5)
+
+index: 288 (Tag, batch_no) = ('WP_220001071-1', 5)
+
+index: 289 (Tag, batch_no) = ('WP_057026632-1', 5)
+
+index: 290 (Tag, batch_no) = ('WP_233385613-1', 5)
+
+index: 291 (Tag, batch_no) = ('WP_055889478-1', 5)
+
+index: 292 (Tag, batch_no) = ('WP_200512125-1', 5)
+
+index: 293 (Tag, batch_no) = ('WP_212310313-1', 5)
+
+index: 294 (Tag, batch_no) = ('WP_042056002-1', 5)
+
+index: 295 (Tag, batch_no) = ('WP_122402182-1', 5)
+
+index: 296 (Tag, batch_no) = ('WP_056469137-1', 5)
+
+index: 297 (Tag, batch_no) = ('PPD45869-1', 5)
+
+index: 298 (Tag, batch_no) = ('WP_102844174-1', 5)
+
+index: 299 (Tag, batch_no) = ('WP_127730925-1', 5)
+
+index: 300 (Tag, batch_no) = ('REF87472-1', 6)
+
+index: 301 (Tag, batch_no) = ('WP_243923039-1', 6)
+
+index: 302 (Tag, batch_no) = ('WP_015684632-1', 6)
+
+index: 303 (Tag, batch_no) = ('WP_145629325-1', 6)
+
+index: 304 (Tag, batch_no) = ('WP_194403578-1', 6)
+
+index: 305 (Tag, batch_no) = ('MBV9064728-1', 6)
+
+index: 306 (Tag, batch_no) = ('WP_174718775-1', 6)
+
+index: 307 (Tag, batch_no) = ('WP_100232960-1', 6)
+
+index: 308 (Tag, batch_no) = ('MCE2024026-1', 6)
+
+index: 309 (Tag, batch_no) = ('WP_238275116-1', 6)
+
+index: 310 (Tag, batch_no) = ('WP_063690681-1', 6)
+
+index: 311 (Tag, batch_no) = ('WP_056095232-1', 6)
+
+index: 312 (Tag, batch_no) = ('WP_210031178-1', 6)
+
+index: 313 (Tag, batch_no) = ('WP_100382194-1', 6)
+
+index: 314 (Tag, batch_no) = ('MBO0750770-1', 6)
+
+index: 315 (Tag, batch_no) = ('WP_038957641-1', 6)
+
+index: 316 (Tag, batch_no) = ('WP_043346265-1', 6)
+
+index: 317 (Tag, batch_no) = ('WP_028156722-1', 6)
+
+index: 318 (Tag, batch_no) = ('WP_091973554-1', 6)
+
+index: 319 (Tag, batch_no) = ('WP_212017892-1', 6)
+
+index: 320 (Tag, batch_no) = ('MBC7576810-1', 6)
+
+index: 321 (Tag, batch_no) = ('WP_013946143-1', 6)
+
+index: 322 (Tag, batch_no) = ('WP_238228006-1', 6)
+
+index: 323 (Tag, batch_no) = ('MBX9684931-1', 6)
+
+index: 324 (Tag, batch_no) = ('WP_038934564-1', 6)
+
+index: 325 (Tag, batch_no) = ('WP_084807016-1', 6)
+
+index: 326 (Tag, batch_no) = ('WP_009027727-1', 6)
+
+index: 327 (Tag, batch_no) = ('WP_247302097-1', 6)
+
+index: 328 (Tag, batch_no) = ('WP_173637821-1', 6)
+
+index: 329 (Tag, batch_no) = ('MBX9930026-1', 6)
+
+index: 330 (Tag, batch_no) = ('WP_182592662-1', 6)
+
+index: 331 (Tag, batch_no) = ('WP_247637186-1', 6)
+
+index: 332 (Tag, batch_no) = ('WP_124738604-1', 6)
+
+index: 333 (Tag, batch_no) = ('WP_231346494-1', 6)
+
+index: 334 (Tag, batch_no) = ('WP_247525626-1', 6)
+
+index: 335 (Tag, batch_no) = ('MTD96030-1', 6)
+
+index: 336 (Tag, batch_no) = ('WP_170868125-1', 6)
+
+index: 337 (Tag, batch_no) = ('WP_100952177-1', 6)
+
+index: 338 (Tag, batch_no) = ('WP_238248443-1', 6)
+
+index: 339 (Tag, batch_no) = ('WP_245286438-1', 6)
+
+index: 340 (Tag, batch_no) = ('WP_020092595-1', 6)
+
+index: 341 (Tag, batch_no) = ('BAM91615-1', 6)
+
+index: 342 (Tag, batch_no) = ('MBV9749362-1', 6)
+
+index: 343 (Tag, batch_no) = ('WP_247559499-1', 6)
+
+index: 344 (Tag, batch_no) = ('WP_014493625-1', 6)
+
+index: 345 (Tag, batch_no) = ('MBM3562455-1', 6)
+
+index: 346 (Tag, batch_no) = ('WP_123175872-1', 6)
+
+index: 347 (Tag, batch_no) = ('WP_024519214-1', 6)
+
+index: 348 (Tag, batch_no) = ('WP_243906849-1', 6)
+
+index: 349 (Tag, batch_no) = ('WP_165637881-1', 6)
+
+index: 350 (Tag, batch_no) = ('WP_138166596-1', 7)
+
+index: 351 (Tag, batch_no) = ('WP_027551125-1', 7)
+
+index: 352 (Tag, batch_no) = ('WP_238246025-1', 7)
+
+index: 353 (Tag, batch_no) = ('MCB1521016-1', 7)
+
+index: 354 (Tag, batch_no) = ('WP_027173715-1', 7)
+
+index: 355 (Tag, batch_no) = ('WP_045006748-1', 7)
+
+index: 356 (Tag, batch_no) = ('RUO98509-1', 7)
+
+index: 357 (Tag, batch_no) = ('OYW54388-1', 7)
+
+index: 358 (Tag, batch_no) = ('WP_154738369-1', 7)
+
+index: 359 (Tag, batch_no) = ('CAA2106626-1', 7)
+
+index: 360 (Tag, batch_no) = ('MCC0001432-1', 7)
+
+index: 361 (Tag, batch_no) = ('WP_027566543-1', 7)
+
+index: 362 (Tag, batch_no) = ('WP_157283946-1', 7)
+
+index: 363 (Tag, batch_no) = ('MBV9777948-1', 7)
+
+index: 364 (Tag, batch_no) = ('WP_007568786-1', 7)
+
+index: 365 (Tag, batch_no) = ('WP_161912438-1', 7)
+
+index: 366 (Tag, batch_no) = ('WP_048445733-1', 7)
+
+index: 367 (Tag, batch_no) = ('WP_231327943-1', 7)
+
+index: 368 (Tag, batch_no) = ('WP_247433479-1', 7)
+
+index: 369 (Tag, batch_no) = ('WP_018267140-1', 7)
+
+index: 370 (Tag, batch_no) = ('WP_035705258-1', 7)
+
+index: 371 (Tag, batch_no) = ('MBY0224843-1', 7)
+
+index: 372 (Tag, batch_no) = ('WP_128945316-1', 7)
+
+index: 373 (Tag, batch_no) = ('MCJ2031403-1', 7)
+
+index: 374 (Tag, batch_no) = ('WP_196405293-1', 7)
+
+index: 375 (Tag, batch_no) = ('MBV8699739-1', 7)
+
+index: 376 (Tag, batch_no) = ('WP_200472908-1', 7)
+
+index: 377 (Tag, batch_no) = ('WP_132254401-1', 7)
+
+index: 378 (Tag, batch_no) = ('WP_200456310-1', 7)
+
+index: 379 (Tag, batch_no) = ('AIQ91889-1', 7)
+
+index: 380 (Tag, batch_no) = ('WP_146089935-1', 7)
+
+index: 381 (Tag, batch_no) = ('WP_183708190-1', 7)
+
+index: 382 (Tag, batch_no) = ('WP_247349580-1', 7)
+
+index: 383 (Tag, batch_no) = ('WP_126540840-1', 7)
+
+index: 384 (Tag, batch_no) = ('WP_056271859-1', 7)
+
+index: 385 (Tag, batch_no) = ('KQQ27110-1', 7)
+
+index: 386 (Tag, batch_no) = ('WP_150999666-1', 7)
+
+index: 387 (Tag, batch_no) = ('WP_036293838-1', 7)
+
+index: 388 (Tag, batch_no) = ('WP_063698532-1', 7)
+
+index: 389 (Tag, batch_no) = ('ADJ23120-1', 7)
+
+index: 390 (Tag, batch_no) = ('WP_212379271-1', 7)
+
+index: 391 (Tag, batch_no) = ('WP_024580216-1', 7)
+
+index: 392 (Tag, batch_no) = ('WP_036007934-1', 7)
+
+index: 393 (Tag, batch_no) = ('WP_148771108-1', 7)
+
+index: 394 (Tag, batch_no) = ('MBA4130844-1', 7)
+
+index: 395 (Tag, batch_no) = ('WP_213335360-1', 7)
+
+index: 396 (Tag, batch_no) = ('WP_109952393-1', 7)
+
+index: 397 (Tag, batch_no) = ('WP_092299138-1', 7)
+
+index: 398 (Tag, batch_no) = ('WP_026193097-1', 7)
+
+index: 399 (Tag, batch_no) = ('WP_162307661-1', 7)
+
+index: 400 (Tag, batch_no) = ('MBP1828068-1', 8)
+
+index: 401 (Tag, batch_no) = ('WP_236990760-1', 8)
+
+index: 402 (Tag, batch_no) = ('WP_151648932-1', 8)
+
+index: 403 (Tag, batch_no) = ('WP_038375811-1', 8)
+
+index: 404 (Tag, batch_no) = ('WP_147856287-1', 8)
+
+index: 405 (Tag, batch_no) = ('WP_135413028-1', 8)
+
+index: 406 (Tag, batch_no) = ('WP_137478651-1', 8)
+
+index: 407 (Tag, batch_no) = ('MBH5391860-1', 8)
+
+index: 408 (Tag, batch_no) = ('WP_028142702-1', 8)
+
+index: 409 (Tag, batch_no) = ('WP_018408757-1', 8)
+
+index: 410 (Tag, batch_no) = ('CAA2137898-1', 8)
+
+index: 411 (Tag, batch_no) = ('WP_011925014-1', 8)
+
+index: 412 (Tag, batch_no) = ('WP_231326895-1', 8)
+
+index: 413 (Tag, batch_no) = ('MBU2580280-1', 8)
+
+index: 414 (Tag, batch_no) = ('WP_130580678-1', 8)
+
+index: 415 (Tag, batch_no) = ('WP_213740870-1', 8)
+
+index: 416 (Tag, batch_no) = ('WP_003601797-1', 8)
+
+index: 417 (Tag, batch_no) = ('WP_027534085-1', 8)
+
+index: 418 (Tag, batch_no) = ('WP_165051830-1', 8)
+
+index: 419 (Tag, batch_no) = ('WP_147044974-1', 8)
+
+index: 420 (Tag, batch_no) = ('WP_092869117-1', 8)
+
+index: 421 (Tag, batch_no) = ('WP_056184383-1', 8)
+
+index: 422 (Tag, batch_no) = ('WP_085772471-1', 8)
+
+index: 423 (Tag, batch_no) = ('WP_104520945-1', 8)
+
+index: 424 (Tag, batch_no) = ('WP_025318492-1', 8)
+
+index: 425 (Tag, batch_no) = ('WP_194466933-1', 8)
+
+index: 426 (Tag, batch_no) = ('WP_244001208-1', 8)
+
+index: 427 (Tag, batch_no) = ('WP_212235234-1', 8)
+
+index: 428 (Tag, batch_no) = ('MBL8567026-1', 8)
+
+index: 429 (Tag, batch_no) = ('WP_095735760-1', 8)
+
+index: 430 (Tag, batch_no) = ('WP_232630168-1', 8)
+
+index: 431 (Tag, batch_no) = ('PZQ11333-1', 8)
+
+index: 432 (Tag, batch_no) = ('MBV9434168-1', 8)
+
+index: 433 (Tag, batch_no) = ('WP_106946455-1', 8)
+
+index: 434 (Tag, batch_no) = ('GDX38019-1', 8)
+
+index: 435 (Tag, batch_no) = ('WP_247801338-1', 8)
+
+index: 436 (Tag, batch_no) = ('QGM48028-1', 8)
+
+index: 437 (Tag, batch_no) = ('WP_244007521-1', 8)
+
+index: 438 (Tag, batch_no) = ('WP_247328266-1', 8)
+
+index: 439 (Tag, batch_no) = ('WP_238286702-1', 8)
+
+index: 440 (Tag, batch_no) = ('WP_092022522-1', 8)
+
+index: 441 (Tag, batch_no) = ('MCA1455690-1', 8)
+
+index: 442 (Tag, batch_no) = ('WP_200499084-1', 8)
+
+index: 443 (Tag, batch_no) = ('WP_198355754-1', 8)
+
+index: 444 (Tag, batch_no) = ('MBJ7405103-1', 8)
+
+index: 445 (Tag, batch_no) = ('WP_216634451-1', 8)
+
+index: 446 (Tag, batch_no) = ('WP_091896411-1', 8)
+
+index: 447 (Tag, batch_no) = ('WP_227441276-1', 8)
+
+index: 448 (Tag, batch_no) = ('WP_211388572-1', 8)
+
+index: 449 (Tag, batch_no) = ('TPV97402-1', 8)
+
+index: 450 (Tag, batch_no) = ('WP_234679747-1', 9)
+
+index: 451 (Tag, batch_no) = ('WP_051396578-1', 9)
+
+index: 452 (Tag, batch_no) = ('WP_247436620-1', 9)
+
+index: 453 (Tag, batch_no) = ('WP_056261319-1', 9)
+
+index: 454 (Tag, batch_no) = ('THD54223-1', 9)
+
+index: 455 (Tag, batch_no) = ('WP_024580287-1', 9)
+
+index: 456 (Tag, batch_no) = ('WP_020181142-1', 9)
+
+index: 457 (Tag, batch_no) = ('WP_147026372-1', 9)
+
+index: 458 (Tag, batch_no) = ('WP_069622908-1', 9)
+
+index: 459 (Tag, batch_no) = ('KQS53152-1', 9)
+
+index: 460 (Tag, batch_no) = ('WP_243985805-1', 9)
+
+index: 461 (Tag, batch_no) = ('WP_091718805-1', 9)
+
+index: 462 (Tag, batch_no) = ('WP_079545054-1', 9)
+
+index: 463 (Tag, batch_no) = ('WP_109958570-1', 9)
+
+index: 464 (Tag, batch_no) = ('WP_056478000-1', 9)
+
+index: 465 (Tag, batch_no) = ('WP_128777683-1', 9)
+
+index: 466 (Tag, batch_no) = ('MBV9971383-1', 9)
+
+index: 467 (Tag, batch_no) = ('WP_020187336-1', 9)
+
+index: 468 (Tag, batch_no) = ('WP_048452653-1', 9)
+
+index: 469 (Tag, batch_no) = ('WP_012321222-1', 9)
+
+index: 470 (Tag, batch_no) = ('WP_063677517-1', 9)
+
+index: 471 (Tag, batch_no) = ('WP_027546467-1', 9)
+
+index: 472 (Tag, batch_no) = ('WP_060845500-1', 9)
+
+index: 473 (Tag, batch_no) = ('WP_247402763-1', 9)
+
+index: 474 (Tag, batch_no) = ('MBE7203409-1', 9)
+
+index: 475 (Tag, batch_no) = ('QBR72077-1', 9)
+
+index: 476 (Tag, batch_no) = ('WP_024280438-1', 9)
+
+index: 477 (Tag, batch_no) = ('WP_139038663-1', 9)
+
+index: 478 (Tag, batch_no) = ('WP_126255572-1', 9)
+
+index: 479 (Tag, batch_no) = ('MBM3576295-1', 9)
+
+index: 480 (Tag, batch_no) = ('WP_028151284-1', 9)
+
+index: 481 (Tag, batch_no) = ('WP_233383166-1', 9)
+
+index: 482 (Tag, batch_no) = ('KAB2941217-1', 9)
+
+index: 483 (Tag, batch_no) = ('WP_066512377-1', 9)
+
+index: 484 (Tag, batch_no) = ('SNS28462-1', 9)
+
+index: 485 (Tag, batch_no) = ('MCB1524336-1', 9)
+
+index: 486 (Tag, batch_no) = ('WP_247968485-1', 9)
+
+index: 487 (Tag, batch_no) = ('WP_243920772-1', 9)
+
+index: 488 (Tag, batch_no) = ('WP_026016174-1', 9)
+
+index: 489 (Tag, batch_no) = ('WP_212436204-1', 9)
+
+index: 490 (Tag, batch_no) = ('WP_056096160-1', 9)
+
+index: 491 (Tag, batch_no) = ('MBV9531221-1', 9)
+
+index: 492 (Tag, batch_no) = ('WP_163643186-1', 9)
+
+index: 493 (Tag, batch_no) = ('WP_041959045-1', 9)
+
+index: 494 (Tag, batch_no) = ('WP_043159183-1', 9)
+
+index: 495 (Tag, batch_no) = ('WP_211982803-1', 9)
+
+index: 496 (Tag, batch_no) = ('WP_162496350-1', 9)
+
+index: 497 (Tag, batch_no) = ('OLB71496-1', 9)
+
+index: 498 (Tag, batch_no) = ('TMJ31690-1', 9)
+
+index: 499 (Tag, batch_no) = ('PWB79981-1', 9)
+
+index: 500 (Tag, batch_no) = ('WP_247443909-1', 10)
+
+index: 501 (Tag, batch_no) = ('WP_238277815-1', 10)
+
+index: 502 (Tag, batch_no) = ('WP_170862988-1', 10)
+
+index: 503 (Tag, batch_no) = ('WP_147813585-1', 10)
+
+index: 504 (Tag, batch_no) = ('WP_209296140-1', 10)
+
+index: 505 (Tag, batch_no) = ('RZK76654-1', 10)
+
+index: 506 (Tag, batch_no) = ('WP_207179657-1', 10)
+
+index: 507 (Tag, batch_no) = ('WP_166141150-1', 10)
+
+index: 508 (Tag, batch_no) = ('WP_243923704-1', 10)
+
+index: 509 (Tag, batch_no) = ('WP_212016363-1', 10)
+
+index: 510 (Tag, batch_no) = ('WP_234050446-1', 10)
+
+index: 511 (Tag, batch_no) = ('WP_172114205-1', 10)
+
+index: 512 (Tag, batch_no) = ('WP_150962736-1', 10)
+
+index: 513 (Tag, batch_no) = ('KQT61367-1', 10)
+
+index: 514 (Tag, batch_no) = ('WP_211416524-1', 10)
+
+index: 515 (Tag, batch_no) = ('RTM13511-1', 10)
+
+index: 516 (Tag, batch_no) = ('WP_166814769-1', 10)
+
+index: 517 (Tag, batch_no) = ('MBV8427531-1', 10)
+
+index: 518 (Tag, batch_no) = ('WP_147710611-1', 10)
+
+index: 519 (Tag, batch_no) = ('WP_128960324-1', 10)
+
+index: 520 (Tag, batch_no) = ('WP_247989824-1', 10)
+
+index: 521 (Tag, batch_no) = ('WP_103121657-1', 10)
+
+index: 522 (Tag, batch_no) = ('WP_243910531-1', 10)
+
+index: 523 (Tag, batch_no) = ('SEI14621-1', 10)
+
+index: 524 (Tag, batch_no) = ('MBY0299962-1', 10)
+
+index: 525 (Tag, batch_no) = ('MBV8107041-1', 10)
+
+index: 526 (Tag, batch_no) = ('WP_092036464-1', 10)
+
+index: 527 (Tag, batch_no) = ('WP_056170849-1', 10)
+
+index: 528 (Tag, batch_no) = ('WP_066921034-1', 10)
+
+index: 529 (Tag, batch_no) = ('WP_058194090-1', 10)
+
+index: 530 (Tag, batch_no) = ('WP_244005007-1', 10)
+
+index: 531 (Tag, batch_no) = ('WP_092115662-1', 10)
+
+index: 532 (Tag, batch_no) = ('WP_214491735-1', 10)
+
+index: 533 (Tag, batch_no) = ('MBP1797803-1', 10)
+
+index: 534 (Tag, batch_no) = ('WP_179735811-1', 10)
+
+index: 535 (Tag, batch_no) = ('WP_056168372-1', 10)
+
+index: 536 (Tag, batch_no) = ('MBW0003899-1', 10)
+
+index: 537 (Tag, batch_no) = ('TMJ51135-1', 10)
+
+index: 538 (Tag, batch_no) = ('WP_085966161-1', 10)
+
+index: 539 (Tag, batch_no) = ('WP_093570315-1', 10)
+
+index: 540 (Tag, batch_no) = ('WP_029080072-1', 10)
+
+index: 541 (Tag, batch_no) = ('WP_100251418-1', 10)
+
+index: 542 (Tag, batch_no) = ('WP_197949706-1', 10)
+
+index: 543 (Tag, batch_no) = ('WP_128927017-1', 10)
+
+index: 544 (Tag, batch_no) = ('MBM3574717-1', 10)
+
+index: 545 (Tag, batch_no) = ('WP_175367590-1', 10)
+
+index: 546 (Tag, batch_no) = ('WP_091858554-1', 10)
+
+index: 547 (Tag, batch_no) = ('MBY0561954-1', 10)
+
+index: 548 (Tag, batch_no) = ('WP_027574619-1', 10)
+
+index: 549 (Tag, batch_no) = ('WP_225148095-1', 10)
+
+index: 550 (Tag, batch_no) = ('MBS0237178-1', 11)
+
+index: 551 (Tag, batch_no) = ('WP_244044660-1', 11)
+
+index: 552 (Tag, batch_no) = ('WP_018320726-1', 11)
+
+index: 553 (Tag, batch_no) = ('WP_212396281-1', 11)
+
+index: 554 (Tag, batch_no) = ('WP_183506314-1', 11)
+
+index: 555 (Tag, batch_no) = ('WP_238209273-1', 11)
+
+index: 556 (Tag, batch_no) = ('WP_160534813-1', 11)
+
+index: 557 (Tag, batch_no) = ('WP_028174364-1', 11)
+
+index: 558 (Tag, batch_no) = ('WP_247280489-1', 11)
+
+index: 559 (Tag, batch_no) = ('WP_055959175-1', 11)
+
+index: 560 (Tag, batch_no) = ('WP_188104820-1', 11)
+
+index: 561 (Tag, batch_no) = ('WP_181335629-1', 11)
+
+index: 562 (Tag, batch_no) = ('WP_243973018-1', 11)
+
+index: 563 (Tag, batch_no) = ('WP_237864762-1', 11)
+
+index: 564 (Tag, batch_no) = ('WP_212461706-1', 11)
+
+index: 565 (Tag, batch_no) = ('ACB32191-1', 11)
+
+index: 566 (Tag, batch_no) = ('WP_147906398-1', 11)
+
+index: 567 (Tag, batch_no) = ('WP_207831543-1', 11)
+
+index: 568 (Tag, batch_no) = ('WP_212284395-1', 11)
+
+index: 569 (Tag, batch_no) = ('GJE62343-1', 11)
+
+index: 570 (Tag, batch_no) = ('WP_020174296-1', 11)
+
+index: 571 (Tag, batch_no) = ('WP_045014522-1', 11)
+
+index: 572 (Tag, batch_no) = ('WP_147080767-1', 11)
+
+index: 573 (Tag, batch_no) = ('WP_244046185-1', 11)
+
+index: 574 (Tag, batch_no) = ('WP_071911675-1', 11)
+
+index: 575 (Tag, batch_no) = ('WP_044540402-1', 11)
+
+index: 576 (Tag, batch_no) = ('WP_057196962-1', 11)
+
+index: 577 (Tag, batch_no) = ('WP_057751392-1', 11)
+
+index: 578 (Tag, batch_no) = ('WP_163642360-1', 11)
+
+index: 579 (Tag, batch_no) = ('MBI5011768-1', 11)
+
+index: 580 (Tag, batch_no) = ('WP_237344988-1', 11)
+
+index: 581 (Tag, batch_no) = ('WP_194481180-1', 11)
+
+index: 582 (Tag, batch_no) = ('WP_092188056-1', 11)
+
+index: 583 (Tag, batch_no) = ('KQT53354-1', 11)
+
+index: 584 (Tag, batch_no) = ('MBV9520790-1', 11)
+
+index: 585 (Tag, batch_no) = ('WP_079567619-1', 11)
+
+index: 586 (Tag, batch_no) = ('KAA0121378-1', 11)
+
+index: 587 (Tag, batch_no) = ('WP_027525762-1', 11)
+
+index: 588 (Tag, batch_no) = ('WP_209484725-1', 11)
+
+index: 589 (Tag, batch_no) = ('ODA68339-1', 11)
+
+index: 590 (Tag, batch_no) = ('WP_155445196-1', 11)
+
+index: 591 (Tag, batch_no) = ('WP_050405229-1', 11)
+
+index: 592 (Tag, batch_no) = ('WP_210032200-1', 11)
+
+index: 593 (Tag, batch_no) = ('WP_198355877-1', 11)
+
+index: 594 (Tag, batch_no) = ('WP_160532695-1', 11)
+
+index: 595 (Tag, batch_no) = ('WP_072369073-1', 11)
+
+index: 596 (Tag, batch_no) = ('MBI1981207-1', 11)
+
+index: 597 (Tag, batch_no) = ('AHJ65435-1', 11)
+
+index: 598 (Tag, batch_no) = ('WP_243907592-1', 11)
+
+index: 599 (Tag, batch_no) = ('WP_213772586-1', 11)
+
+index: 600 (Tag, batch_no) = ('MBS0235305-1', 12)
+
+index: 601 (Tag, batch_no) = ('WP_063202730-1', 12)
+
+index: 602 (Tag, batch_no) = ('WP_174512097-1', 12)
+
+index: 603 (Tag, batch_no) = ('WP_008973910-1', 12)
+
+index: 604 (Tag, batch_no) = ('WP_056188172-1', 12)
+
+index: 605 (Tag, batch_no) = ('WP_225647642-1', 12)
+
+index: 606 (Tag, batch_no) = ('WP_232629746-1', 12)
+
+index: 607 (Tag, batch_no) = ('WP_184256547-1', 12)
+
+index: 608 (Tag, batch_no) = ('ABS68055-1', 12)
+
+index: 609 (Tag, batch_no) = ('WP_149310179-1', 12)
+
+index: 610 (Tag, batch_no) = ('WP_063981985-1', 12)
+
+index: 611 (Tag, batch_no) = ('WP_085984986-1', 12)
+
+index: 612 (Tag, batch_no) = ('WP_019903757-1', 12)
+
+index: 613 (Tag, batch_no) = ('WP_131004249-1', 12)
+
+index: 614 (Tag, batch_no) = ('WP_053082380-1', 12)
+
+index: 615 (Tag, batch_no) = ('GEP11738-1', 12)
+
+index: 616 (Tag, batch_no) = ('MBM3552938-1', 12)
+
+index: 617 (Tag, batch_no) = ('WP_203154092-1', 12)
+
+index: 618 (Tag, batch_no) = ('MBO0717400-1', 12)
+
+index: 619 (Tag, batch_no) = ('WP_212492645-1', 12)
+
+index: 620 (Tag, batch_no) = ('WP_024878302-1', 12)
+
+index: 621 (Tag, batch_no) = ('WP_183568943-1', 12)
+
+index: 622 (Tag, batch_no) = ('WP_055954722-1', 12)
+
+index: 623 (Tag, batch_no) = Invalid serial number
+
+index: 624 (Tag, batch_no) = Invalid serial number
+
+index: 625 (Tag, batch_no) = Invalid serial number
+
+index: 626 (Tag, batch_no) = Invalid serial number
+
+index: 627 (Tag, batch_no) = Invalid serial number
+
+index: 628 (Tag, batch_no) = Invalid serial number
+
+index: 629 (Tag, batch_no) = Invalid serial number
+
+index: 630 (Tag, batch_no) = Invalid serial number
+
+index: 631 (Tag, batch_no) = Invalid serial number
