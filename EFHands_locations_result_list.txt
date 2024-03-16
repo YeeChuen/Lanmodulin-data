@@ -1,0 +1,1245 @@
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_dA'], (57, 69): ['motif_and_AD'], (81, 93): ['motif_dB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motifE'], (62, 74): ['motif_and_AD'], (86, 98): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_dA'], (81, 93): ['motif_dA']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motifE'], (62, 74): ['motif_and_AD'], (86, 98): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(18, 30): ['motif_and_AB'], (42, 54): ['motifE'], (67, 79): ['motif_and_AD'], (91, 103): ['motif_and_AB']}
+
+{(18, 30): ['motif_and_AB'], (42, 54): ['motifE'], (67, 79): ['motif_and_AD'], (91, 103): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(11, 23): ['motif_dA'], (35, 47): ['motif_dA'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_dA']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AB'], (81, 93): ['motif_dB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motif_and_AB'], (59, 71): ['motif_dA'], (83, 95): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AB'], (80, 92): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AB'], (80, 92): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AD'], (81, 93): ['motif_dA']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motif_and_AB'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(17, 29): ['motif_and_AB'], (41, 53): ['motif_dA'], (66, 78): ['motif_dA'], (90, 102): ['motif_dA']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(6, 18): ['motif_and_AB'], (30, 42): ['motifE'], (55, 67): ['motif_and_AD'], (79, 91): ['motif_dB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motifE'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motif_and_AB'], (62, 74): ['motif_and_AB'], (86, 98): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_BD'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motifE'], (59, 71): ['motif_and_AD'], (83, 95): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(14, 26): ['motif_and_AB'], (38, 50): ['motif_and_AB'], (63, 75): ['motif_and_AB'], (87, 99): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_dC']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_dA']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motif_and_AB'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motif_and_AB'], (62, 74): ['motif_and_AD'], (86, 98): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motifE'], (57, 69): ['motif_and_AD'], (81, 93): ['motif_dB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AB'], (80, 92): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AB'], (82, 94): ['motif_and_AB']}
+
+{(18, 30): ['motif_dA'], (42, 54): ['motif_and_AB'], (67, 79): ['motif_and_AB'], (91, 103): ['motif_dC']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motif_and_AB'], (62, 74): ['motif_and_AB'], (86, 98): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AB'], (81, 93): ['motif_dB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_dA'], (57, 69): ['motif_and_AD'], (81, 93): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(7, 19): ['motif_dA'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AB'], (80, 92): ['motif_and_AB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motif_and_AB'], (59, 71): ['motif_and_AD'], (83, 95): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AB'], (80, 92): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motif_and_AB'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motifE'], (62, 74): ['motif_and_AB'], (86, 98): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motif_and_AB'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(10, 22): ['motif_and_AD'], (34, 46): ['motif_and_AB'], (59, 71): ['motif_and_AB'], (83, 95): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_BD'], (80, 92): ['motif_and_AB']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motifE'], (62, 74): ['motif_and_AD'], (86, 98): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AB'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motif_and_AB'], (62, 74): ['motif_and_AB'], (86, 98): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motifE'], (57, 69): ['motif_and_AD'], (81, 93): ['motif_and_AB']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motifE'], (62, 74): ['motif_and_AB'], (86, 98): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(11, 23): ['motif_100'], (35, 47): ['motif_and_AD'], (60, 72): ['motif_100_248_413'], (84, 96): ['motif_and_AD']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AB'], (80, 92): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AB'], (80, 92): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AD'], (80, 92): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AB'], (80, 92): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motifE'], (57, 69): ['motif_dA'], (81, 93): ['motif_dB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motif_and_AB'], (59, 71): ['motif_and_AD'], (83, 95): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AD'], (80, 92): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motif_and_AB'], (59, 71): ['motif_and_AD'], (83, 95): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AB'], (84, 96): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AD'], (81, 93): ['motif_dB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AB'], (84, 96): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AB'], (82, 94): ['motif_and_AB']}
+
+{(7, 19): ['motif_dC'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_dA'], (80, 92): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AD'], (60, 72): ['motif_130'], (84, 96): ['motif_dC']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AD'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_dA'], (82, 94): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AD'], (80, 92): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motifE'], (57, 69): ['motif_and_AD'], (81, 93): ['motif_dB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_dA'], (82, 94): ['motif_and_AB']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motif_and_AB'], (62, 74): ['motif_and_AB'], (86, 98): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motif_and_AB'], (59, 71): ['motif_and_AB'], (83, 95): ['motif_dA']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(6, 18): ['motif_and_AB'], (30, 42): ['motifE'], (55, 67): ['motif_and_AD'], (79, 91): ['motif_and_AB']}
+
+{(10, 22): ['motif_dA'], (34, 46): ['motif_dA'], (59, 71): ['motif_and_AD'], (83, 95): ['motif_dA']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(6, 18): ['motif_and_AB'], (30, 42): ['motif_and_AB'], (55, 67): ['motif_and_AB'], (79, 91): ['motif_dB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motif_and_AB'], (59, 71): ['motif_dA'], (83, 95): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motif_and_AB'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_dB'], (56, 68): ['motif_and_AD'], (80, 92): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motif_and_AB'], (62, 74): ['motif_and_AB'], (86, 98): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AB'], (80, 92): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_dA'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_dA'], (57, 69): ['motif_and_AD'], (81, 93): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motifE'], (57, 69): ['motif_dA'], (81, 93): ['motif_dB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AD'], (81, 93): ['motif_dA']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(18, 30): ['motif_dD'], (42, 54): ['motif_dB'], (67, 79): ['motif_and_AB'], (91, 103): ['motif_dC']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AB'], (81, 93): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motif_and_AB'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_BD'], (84, 96): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motif_and_AB'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motif_and_AB'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AD'], (80, 92): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motifE'], (57, 69): ['motif_dA'], (81, 93): ['motif_dB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motif_and_AB'], (59, 71): ['motif_dA'], (83, 95): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AB'], (80, 92): ['motif_and_AB']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motifE'], (62, 74): ['motif_and_AB'], (86, 98): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motif_and_AB'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AB'], (81, 93): ['motif_dB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motif_and_AB'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(18, 30): ['motif_and_AB'], (42, 54): ['motif_dC'], (67, 79): ['motif_dA'], (91, 103): ['motif_and_AD']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AB'], (80, 92): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motifE'], (59, 71): ['motif_and_AD'], (83, 95): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motifE'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AB'], (81, 93): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(10, 22): ['motif_215'], (36, 48): ['motif_dB'], (59, 71): ['motif_and_AD'], (83, 95): ['motif_dA']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AB'], (81, 93): ['motif_dB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AB'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(16, 28): ['motif_dA'], (40, 52): ['motif_and_AD'], (65, 77): ['motif_and_AD'], (89, 101): ['motif_dA']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AB'], (80, 92): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motifE'], (57, 69): ['motif_dA'], (81, 93): ['motif_dB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motifE'], (56, 68): ['motif_and_AB'], (80, 92): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(16, 28): ['motif_and_AB'], (40, 52): ['motif_and_AB'], (65, 77): ['motif_and_AB'], (89, 101): ['motif_and_AB']}
+
+{(10, 22): ['motif_236'], (34, 46): ['motif_and_AB'], (59, 71): ['motif_dA'], (83, 95): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motif_and_AB'], (59, 71): ['motif_dA'], (83, 95): ['motif_and_AB']}
+
+{(18, 30): ['motif_dD'], (42, 54): ['motif_dB'], (67, 79): ['motif_dA'], (91, 103): ['motif_dC']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AB'], (80, 92): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_dA'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_dB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motif_and_AB'], (59, 71): ['motif_dA'], (83, 95): ['motif_and_AB']}
+
+{(17, 29): ['motif_dA'], (41, 53): ['motif_dA'], (66, 78): ['motif_246'], (90, 102): ['motif_and_AD']}
+
+{(9, 21): ['motif_dB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(11, 23): ['motif_dA'], (35, 47): ['motif_dA'], (60, 72): ['motif_100_248_413'], (84, 96): ['motif_dA']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AD'], (80, 92): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_BD'], (32, 44): ['motif_253_565'], (57, 69): ['motif_dA'], (81, 93): ['motif_dC']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motifE'], (62, 74): ['motif_and_AB'], (86, 98): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AB'], (81, 93): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motif_and_AB'], (61, 73): ['motif_and_AB'], (85, 97): ['motifE']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motifE'], (59, 71): ['motif_and_AD'], (83, 95): ['motif_and_AB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motif_and_AB'], (59, 71): ['motif_and_AB'], (83, 95): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_dA'], (80, 92): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(11, 23): ['motif_dA'], (35, 47): ['motif_and_AD'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_dA']}
+
+{(6, 18): ['motif_and_AB'], (30, 42): ['motif_and_AB'], (55, 67): ['motif_and_AB'], (79, 91): ['motif_dB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motif_and_AB'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_dA']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(11, 23): ['motif_dA'], (35, 47): ['motif_and_AD'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_dA']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motif_dA'], (59, 71): ['motif_and_AB'], (83, 95): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AB'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (35, 47): ['motif_dB'], (58, 70): ['motif_and_AB'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motif_and_AB'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AB'], (84, 96): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(10, 22): ['motif_and_AD'], (34, 46): ['motif_and_AB'], (59, 71): ['motif_and_AB'], (83, 95): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(6, 18): ['motif_and_AB'], (30, 42): ['motif_and_AB'], (55, 67): ['motif_and_AB'], (79, 91): ['motif_dB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AB'], (82, 94): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_dA'], (81, 93): ['motif_dA']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motif_and_AB'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(6, 18): ['motif_and_AB'], (30, 42): ['motif_and_AB'], (55, 67): ['motif_and_AD'], (79, 91): ['motif_dC']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AD'], (81, 93): ['motif_dB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AD'], (80, 92): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AD'], (80, 92): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(10, 22): ['motif_and_BD'], (34, 46): ['motif_dA'], (59, 71): ['motif_and_AD'], (83, 95): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AB'], (81, 93): ['motif_dB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AB'], (80, 92): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AB'], (81, 93): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AB'], (81, 93): ['motif_dB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_dA'], (60, 72): ['motif_dA'], (84, 96): ['motif_and_AD']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_dA'], (82, 94): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_dA']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AB'], (81, 93): ['motif_dB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motif_and_AB'], (62, 74): ['motif_and_AB'], (86, 98): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motif_and_AB'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motif_and_AB'], (59, 71): ['motif_and_AD'], (83, 95): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_dA']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motif_and_AB'], (62, 74): ['motif_and_AD'], (86, 98): ['motif_and_AB']}
+
+{(22, 34): ['motif_and_AB'], (46, 58): ['motif_dA'], (71, 83): ['motif_and_AB'], (94, 106): ['motif_342']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_dB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motifE'], (59, 71): ['motif_and_AB'], (83, 95): ['motif_and_AB']}
+
+{(17, 29): ['motif_dA'], (41, 53): ['motif_and_AD'], (66, 78): ['motif_353'], (90, 102): ['motif_and_AD']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AB'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AB'], (81, 93): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motif_and_AB'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AB'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AB'], (82, 94): ['motif_and_AB']}
+
+{(6, 18): ['motif_and_AB'], (30, 42): ['motifE'], (55, 67): ['motif_and_AD'], (79, 91): ['motif_dB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(18, 30): ['motif_dD'], (42, 54): ['motif_dB'], (67, 79): ['motif_and_AB'], (91, 103): ['motif_dC']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motifE'], (57, 69): ['motif_dA'], (81, 93): ['motif_dB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motifE'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(19, 31): ['motif_and_AB'], (43, 55): ['motif_and_AB'], (68, 80): ['motif_and_AD'], (92, 104): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motifE'], (57, 69): ['motif_dA'], (81, 93): ['motif_dB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motif_and_AB'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motif_and_AB'], (62, 74): ['motif_and_AB'], (86, 98): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_dB'], (56, 68): ['motif_and_AD'], (80, 92): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(10, 22): ['motif_dA'], (36, 48): ['motif_dB'], (59, 71): ['motif_and_AD'], (83, 95): ['motif_dA']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motif_and_AB'], (62, 74): ['motif_and_AB'], (86, 98): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motifE'], (57, 69): ['motif_dA'], (81, 93): ['motif_dB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(16, 28): ['motif_and_AB'], (40, 52): ['motif_and_AB'], (65, 77): ['motif_and_AB'], (89, 101): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motif_and_AB'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(10, 22): ['motif_dA'], (36, 48): ['motif_dB'], (59, 71): ['motif_and_AD'], (83, 95): ['motif_dA']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motifE'], (62, 74): ['motif_and_AB'], (86, 98): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motifE'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motifE'], (59, 71): ['motif_dA'], (83, 95): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AB'], (81, 93): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motif_and_AB'], (62, 74): ['motif_and_AD'], (86, 98): ['motif_and_AB']}
+
+{(11, 23): ['motif_dA'], (35, 47): ['motif_dA'], (60, 72): ['motif_100_248_413'], (84, 96): ['motif_and_AD']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motifE'], (59, 71): ['motif_dA'], (83, 95): ['motif_and_AB']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motif_and_AB'], (62, 74): ['motif_and_AB'], (86, 98): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_dA'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_dB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AB'], (81, 93): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_BD'], (32, 44): ['motif_and_BD'], (57, 69): ['motif_dA'], (81, 93): ['motif_and_AB']}
+
+{(11, 23): ['motif_dA'], (35, 47): ['motif_dA'], (60, 72): ['motif_and_AB'], (84, 96): ['motif_dC']}
+
+{(16, 28): ['motif_dA'], (40, 52): ['motif_dB'], (65, 77): ['motif_and_AB'], (89, 101): ['motif_dA']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_dA'], (82, 94): ['motif_and_AB']}
+
+{(20, 32): ['motif_dA'], (44, 56): ['motif_dA'], (69, 81): ['motif_428'], (93, 105): ['motif_dA']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AB'], (82, 94): ['motif_and_AB']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motif_dA'], (62, 74): ['motif_and_AD'], (86, 98): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (30, 44): ['motif_432'], (57, 69): ['motif_and_AD'], (81, 93): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motifE'], (59, 71): ['motif_and_AD'], (83, 95): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motifE'], (57, 69): ['motif_dA'], (81, 93): ['motif_dC']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(16, 28): ['motif_dA'], (40, 52): ['motif_dB'], (65, 77): ['motif_and_AB'], (89, 101): ['motif_dA']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(16, 28): ['motif_dA'], (40, 52): ['motif_dB'], (65, 77): ['motif_and_AB'], (89, 101): ['motif_dA']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AB'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motifE'], (56, 68): ['motif_and_AD'], (80, 92): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_dA'], (82, 94): ['motif_and_AB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motif_and_AB'], (59, 71): ['motif_and_AD'], (83, 95): ['motif_and_AB']}
+
+{(13, 25): ['motif_dA'], (37, 49): ['motif_dA'], (62, 74): ['motif_and_AD'], (86, 98): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motif_and_AD'], (59, 71): ['motif_and_AB'], (83, 95): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motifE'], (62, 74): ['motif_and_AB'], (86, 98): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_dA'], (36, 48): ['motif_and_AD'], (61, 73): ['motif_and_AD'], (85, 97): ['motif_dA']}
+
+{(10, 22): ['motif_dA'], (34, 46): ['motif_and_AB'], (59, 71): ['motif_and_AB'], (83, 95): ['motif_and_AB']}
+
+{(13, 25): ['motif_dA'], (37, 49): ['motif_dA'], (62, 74): ['motif_and_AD'], (86, 98): ['motif_dA']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motifE'], (60, 72): ['motif_and_AB'], (84, 96): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motifE'], (62, 74): ['motif_and_AD'], (86, 98): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motifE'], (57, 69): ['motif_and_AD'], (81, 93): ['motif_and_AB']}
+
+{(10, 22): ['motif_dA'], (34, 46): ['motif_dA'], (59, 71): ['motif_and_AD'], (83, 95): ['motif_dA']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motifE'], (62, 74): ['motif_and_AB'], (86, 98): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motif_and_AB'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AB'], (80, 92): ['motif_and_AB']}
+
+{(6, 18): ['motif_and_AB'], (30, 42): ['motifE'], (55, 67): ['motif_and_AD'], (79, 91): ['motif_dB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AB'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AB'], (81, 93): ['motif_dB']}
+
+{(11, 23): ['motif_and_BD'], (35, 47): ['motif_dA'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AB'], (80, 92): ['motif_and_AB']}
+
+{(16, 28): ['motif_and_AB'], (40, 52): ['motif_and_AB'], (65, 77): ['motif_and_AB'], (89, 101): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motifE'], (57, 69): ['motif_and_AD'], (81, 93): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(6, 18): ['motif_and_AB'], (30, 42): ['motif_and_AB'], (55, 67): ['motif_and_AB'], (79, 91): ['motif_dB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motif_and_AB'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motifE'], (62, 74): ['motif_and_AD'], (86, 98): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motifE'], (57, 69): ['motif_dA'], (81, 93): ['motif_dB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(13, 25): ['motif_dA'], (37, 49): ['motif_dA'], (62, 74): ['motif_and_AD'], (86, 98): ['motif_dA']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AB'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_dA'], (57, 69): ['motif_and_AD'], (81, 93): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(15, 27): ['motif_dA'], (39, 51): ['motif_dA'], (64, 76): ['motif_and_AD'], (88, 100): ['motif_dA']}
+
+{(6, 18): ['motif_and_AB'], (30, 42): ['motif_and_AB'], (55, 67): ['motif_and_AB'], (79, 91): ['motif_dB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AB'], (80, 92): ['motif_and_AB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motif_and_AB'], (59, 71): ['motif_and_AB'], (83, 95): ['motif_dA']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_dC'], (56, 68): ['motif_and_AD'], (80, 92): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AB'], (81, 93): ['motif_dB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_dA'], (57, 69): ['motif_and_AD'], (81, 93): ['motif_and_AB']}
+
+{(16, 28): ['motif_and_AB'], (40, 52): ['motif_and_AB'], (65, 77): ['motif_and_AB'], (89, 101): ['motif_and_AB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motif_and_AB'], (59, 71): ['motif_dA'], (83, 95): ['motif_and_AB']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motifE'], (62, 74): ['motif_and_AB'], (86, 98): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motifE'], (59, 71): ['motif_and_AD'], (83, 95): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AB'], (80, 92): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AB'], (81, 93): ['motif_and_AB']}
+
+{(6, 18): ['motif_548'], (30, 42): ['motif_and_AB'], (55, 67): ['motif_and_AD'], (79, 91): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AB'], (81, 93): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motif_and_AB'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AB'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AB'], (81, 93): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_253_565'], (57, 69): ['motif_dA'], (81, 93): ['motif_dA']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_dB'], (56, 68): ['motif_and_AD'], (80, 92): ['motif_dA']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motif_and_AB'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motif_and_AB'], (59, 71): ['motif_dA'], (83, 95): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AB'], (81, 93): ['motif_dB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motifE'], (59, 71): ['motif_and_AD'], (83, 95): ['motif_and_AB']}
+
+{(11, 23): ['motif_dA'], (35, 47): ['motif_dA'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_dA']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motif_and_AB'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_dA'], (57, 69): ['motif_and_AD'], (81, 93): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(10, 22): ['motif_dA'], (34, 46): ['motif_dA'], (59, 71): ['motif_and_AD'], (83, 95): ['motif_dA']}
+
+{(12, 24): ['motif_dA'], (36, 48): ['motif_and_AD'], (61, 73): ['motif_and_AB'], (87, 99): ['motif_dB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_dB'], (56, 68): ['motif_and_AD'], (80, 92): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(16, 28): ['motif_dA'], (40, 52): ['motif_dB'], (65, 77): ['motif_and_AB'], (89, 101): ['motif_dA']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AB'], (82, 94): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(16, 28): ['motif_dA'], (40, 52): ['motif_dB'], (65, 77): ['motif_and_AB'], (89, 101): ['motif_dA']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(11, 23): ['motif_and_BD'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AB'], (81, 93): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AD'], (81, 93): ['motif_dB']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_dB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motif_and_AB'], (57, 69): ['motif_and_AB'], (81, 93): ['motif_dB']}
+
+{(10, 22): ['motif_and_AB'], (34, 46): ['motif_and_AB'], (59, 71): ['motif_and_AD'], (83, 95): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motif_and_AB'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motif_and_AB'], (56, 68): ['motif_and_AB'], (80, 92): ['motif_and_AB']}
+
+{(11, 23): ['motif_dA'], (35, 47): ['motif_and_AD'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_dA']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AB'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(12, 24): ['motif_and_AB'], (36, 48): ['motifE'], (61, 73): ['motif_and_AD'], (85, 97): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AB'], (82, 94): ['motif_and_AB']}
+
+{(10, 22): ['motif_dA'], (34, 46): ['motif_dA'], (59, 71): ['motif_and_AD'], (83, 95): ['motif_dA']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motifE'], (62, 74): ['motif_and_AD'], (86, 98): ['motif_and_AB']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motif_and_AB'], (62, 74): ['motif_and_AB'], (86, 98): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motifE'], (58, 70): ['motif_and_AD'], (82, 94): ['motif_and_AB']}
+
+{(13, 25): ['motif_and_AB'], (37, 49): ['motifE'], (62, 74): ['motif_and_AB'], (86, 98): ['motif_and_AB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_dA'], (82, 94): ['motif_dA']}
+
+{(11, 23): ['motif_and_AB'], (35, 47): ['motif_and_AB'], (60, 72): ['motif_and_AD'], (84, 96): ['motif_and_AB']}
+
+{(8, 20): ['motif_and_AB'], (32, 44): ['motifE'], (57, 69): ['motif_dA'], (81, 93): ['motif_dB']}
+
+{(9, 21): ['motif_and_AB'], (33, 45): ['motif_and_AB'], (58, 70): ['motif_and_AB'], (82, 94): ['motif_and_AB']}
+
+{(7, 19): ['motif_and_AB'], (31, 43): ['motifE'], (56, 68): ['motif_and_AB'], (80, 92): ['motif_and_AB']}
