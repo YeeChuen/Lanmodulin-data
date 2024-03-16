@@ -18,15 +18,15 @@ def extractZip(example_zip_file):
         file_extract = file_to_extract[0]
         zip.extract(file_extract)
 
-example_zip_file = "./_batches/results/batch00/ACA18767-1.result.zip"
+example_zip_file = "E:/Files/Coding Software/ChowdhuryVSC/Lanmodulin-data/_batches/results/batch00/ACA18767-1.result.zip"
 
-zip_directory = "./_batches/results"
+zip_directory = "E:/Files/Coding Software/ChowdhuryVSC/Lanmodulin-data/_batches/results"
 batches = os.listdir(zip_directory)
 batches.sort(key = lambda x: int(x[-2:]))
 
-if not os.path.exists("./pdbs"):
-    os.mkdir("./pdbs")
-os.chdir("./pdbs")
+if not os.path.exists("E:/Files/Coding Software/ChowdhuryVSC/Lanmodulin-data/pdbs"):
+    os.mkdir("E:/Files/Coding Software/ChowdhuryVSC/Lanmodulin-data/pdbs")
+os.chdir("E:/Files/Coding Software/ChowdhuryVSC/Lanmodulin-data/pdbs")
 
 total = 0
 for batch in batches:
@@ -44,7 +44,7 @@ for batch in batches:
             extractZip(f"{zip_directory}/{batch}/{z}") # <-- only extract if it does not exist
 
 # extract EF hand.
-pdb_path = "./pdbs"
+pdb_path = "E:/Files/Coding Software/ChowdhuryVSC/Lanmodulin-data/pdbs"
 pdb_list = os.listdir(pdb_path)
 pdb_list = [f"{pdb_path}/{p}" for p in pdb_list]
 
@@ -88,9 +88,9 @@ amino_acid_codes = {
     "SER": "S","THR": "T","TRP": "W","TYR": "Y","VAL": "V"
 }
 
-if not os.path.exists("/Users/Chuen/Documents/vsc projects/lanmodulin_project/ef_pdbs"):
-    os.mkdir("/Users/Chuen/Documents/vsc projects/lanmodulin_project/ef_pdbs")
-os.chdir("/Users/Chuen/Documents/vsc projects/lanmodulin_project/ef_pdbs")
+if not os.path.exists("E:/Files/Coding Software/ChowdhuryVSC/Lanmodulin-data/ef_pdbs"):
+    os.mkdir("E:/Files/Coding Software/ChowdhuryVSC/Lanmodulin-data/ef_pdbs")
+os.chdir("E:/Files/Coding Software/ChowdhuryVSC/Lanmodulin-data/ef_pdbs")
 
 print(len(amino_acid_codes))
 ef_list = [(11, 23), (35, 47), (60, 72), (84, 96)] # <-- TODO: change this.

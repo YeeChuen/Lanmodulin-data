@@ -39,4 +39,6 @@ Thumbs.db
 # project folder to ignore #
 ######################
 test_ignore_folder/
-
+_batches/
+pdbs/
+ef_pdbs/
