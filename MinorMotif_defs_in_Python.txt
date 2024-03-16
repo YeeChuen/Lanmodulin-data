@@ -1,0 +1,61 @@
+#@title Minor motifs definitions:
+# motifGLD
+motif_100_248_413 = rf'N-*[LVR]-*I-*[RK]-*[GR]-*K-*G-*L-*D-*R-*[IV]-*E'
+# N[LVR]I [RK][GR]K GLD R[IV]E
+
+# motifNIFE
+motif_100 = rf'D-*R-*[R]-*[GR]-*D-*G-*K-*L-*N-*[IV]-*F-*E'
+# DR[RN] [GR]DG KLN [IV]FE
+
+# GKKPTDTLTVQE 
+# motifGKK
+motif_215 = rf'G-*K-*K-*P-*T-*D-*T-*L-*T-*V-*Q-*E'
+
+# DKN merged with DANK
+# motifDKN = rf'D-*[AK]-*N-*K-*D-*G-*K-*L-*T-*[AV]-*[KV]-*E'
+# motifDAD is renamed motifE
+# motifDAD = rf'[E]-*{AA}-*D-*{AA}-*D-*{AA}-*{AA}-*{AA}-*[DTE]-*{AA}-*{AA}-*E'
+# DLDKRGKLWLGE
+motif_428 = rf'D-*L-*D-*K-*R-*G-*K-*L-*W-*L-*G-*E'
+
+# DIR KDG KIS LVE
+# motifDANK
+motif_246 = rf'D-*[AILHK]-*[IR]-*K-*[DR]-*G-*[KV]-*[LI]-*[TSW]-*[AEGLV]-*[AQKVG]-*E'
+
+# this is motifF
+# motifDADANK = rf'D-*A-*D-*A-*N-*K-*D-*G-*K-*L-*T-*E'
+
+motif_130 = rf'N-*P-*G-*H-*K-*D-*N-*L-*T-*R-*D-*Q'
+# found in 130: NPGHKDNLTRDQ
+
+# found in 565: QKD------------------------QDDTLD------------------------RKE
+# found in 548: K----------LFD---NGTLDLAE
+# found in 432: DHDGDGTLDEHE  --- why didn't it get trapped as motif dA,B,C?
+# found in 353: DLIKGRGISLGE
+# found in 342: DTD------------------------HDGTLS------------------------RRE
+# found in 253: QKDQDDTLDPK---------------E
+# found in 236: YTDSDGTLDHIE
+# found in 253, 565: QKD QDD TLD [PR]KE
+motif_253_565 = rf'Q-*K-*D-*Q-*D-*D-*T-*L-*D-*[PR]-*K-*E'
+motif_236 = rf'Y-*T-*D-*S-*D-*G-*T-*L-*D-*H-*I-*E'
+# AGGGPDKTIKIE
+motif_342 = rf'A-*G-*G-*G-*P-*D-*K-*T-*I-*K-*I-*E'
+
+motif_353 = rf'D-*L-*I-*K-*G-*R-*G-*I-*S-*L-*G-*E'
+motif_432 = rf'Q-*L-*D-*R-*G-*K-*D-*G-*T-*L-*T-*A-*R-*E'
+motif_548 = rf'K-*L-*F-*D-*N-*G-*T-*L-*D-*L-*A-*E'
+
+#motif_215: 1
+# motif_246: 1
+# motifDANK
+
+# motif_100: 1
+# motifNIFE
+# DRRGDGKL NIFE (now)
+
+# motif_100_248_413: 3
+# motifGLD
+# # N[LVR]I [RK][GR]K GLD R[IV]E
+# NVIRGKGLDRIE
+# NLIKRKGLDRVE
+# NRIKRKGLDRVE
