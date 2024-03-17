@@ -42,3 +42,8 @@ test_ignore_folder/
 _batches/
 pdbs/
 ef_pdbs/
+636_*
+EFhand.fasta
+build_test_data.py
+cite.bibtex
+config.json
