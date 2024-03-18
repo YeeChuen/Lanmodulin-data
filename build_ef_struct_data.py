@@ -25,6 +25,7 @@ def extractZip(zip_file):
 
 zip_directory = "E:/Files/Coding Software/ChowdhuryVSC/Lanmodulin-data/_batches/results" # <-- change path to match your local
 batches = os.listdir(zip_directory)
+if ".DS_Store" in batches: batches.remove(".DS_Store")
 batches.sort(key = lambda x: int(x[-2:]))
 
 
@@ -37,6 +38,7 @@ total = 0
 print("Unzipping pdb zip files...")
 for batch in tqdm(batches):
     batch_list_dir = os.listdir(f"{zip_directory}/{batch}")
+    if ".DS_Store" in batch_list_dir: batch_list_dir.remove(".DS_Store")
 
     zip_list = []
     for f in batch_list_dir:
@@ -55,6 +57,7 @@ print("Total pdbs:", total)
 # extract EF hand.
 ef_pdb_path = "E:/Files/Coding Software/ChowdhuryVSC/Lanmodulin-data/pdbs" # <-- change path to match your local
 ef_pdb_list = os.listdir(ef_pdb_path)
+if ".DS_Store" in ef_pdb_list: ef_pdb_list.remove(".DS_Store")
 ef_pdb_list = [f"{ef_pdb_path}/{p}" for p in ef_pdb_list]
 
 def getEFHandPdb(pdb_file, ef_dict, protein, seq):
