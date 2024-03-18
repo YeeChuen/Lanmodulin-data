@@ -4,6 +4,9 @@ from zipfile import ZipFile
 import os
 from tqdm import tqdm
 
+# base working directory/path
+base_path = "/work/ratul1/chuen/Lanmodulin-data"
+ 
 #Biopython import
 from Bio.PDB import PDBParser
 from Bio.SeqUtils import seq1
@@ -23,13 +26,13 @@ def extractZip(zip_file):
         file_extract = file_to_extract[0]
         zip.extract(file_extract)
 
-zip_directory = "E:/Files/Coding Software/ChowdhuryVSC/Lanmodulin-data/_batches/results" # <-- change path to match your local
+zip_directory = f"{base_path}/_batches/results" # <-- change path to match your local
 batches = os.listdir(zip_directory)
 if ".DS_Store" in batches: batches.remove(".DS_Store")
 batches.sort(key = lambda x: int(x[-2:]))
 
 
-pdbs_path = "E:/Files/Coding Software/ChowdhuryVSC/Lanmodulin-data/pdbs"
+pdbs_path = f"{base_path}/pdbs"
 if not os.path.exists(pdbs_path):
     os.mkdir(pdbs_path)
 os.chdir(pdbs_path)
@@ -55,12 +58,13 @@ print("Total pdbs:", total)
 
 
 # extract EF hand.
-ef_pdb_path = "E:/Files/Coding Software/ChowdhuryVSC/Lanmodulin-data/pdbs" # <-- change path to match your local
+ef_pdb_path = f"{base_path}/pdbs" # <-- change path to match your local
 ef_pdb_list = os.listdir(ef_pdb_path)
 if ".DS_Store" in ef_pdb_list: ef_pdb_list.remove(".DS_Store")
 ef_pdb_list = [f"{ef_pdb_path}/{p}" for p in ef_pdb_list]
 
 def getEFHandPdb(pdb_file, ef_dict, protein, seq):
+    ef_set = set()
 
     pdbparser = PDBParser()
     structure = pdbparser.get_structure('seq', pdb_file)
@@ -84,7 +88,7 @@ def getEFHandPdb(pdb_file, ef_dict, protein, seq):
             position = (line[22:26].replace(" ",""))
             if type == "ATOM":
                 position = int(position)
-                if ef_list[ef_idx][0] + 1 <= position and position <= ef_list[ef_idx][1] + 1:
+                if ef_list[ef_idx][0] + 1 <= position and position < ef_list[ef_idx][1] + 1:
                     #print(position)
                     ef.append(line)
 
@@ -98,7 +102,8 @@ def getEFHandPdb(pdb_file, ef_dict, protein, seq):
         pdb_name = pdb_file.split("/")[-1][:-4]
         for e in range(len(ef_hands_pdbs)):
             ef = ef_hands_pdbs[e]
-            with open(f"{pdb_name}_EF{e + 1}.pdb", "w") as f:
+            ef_hand_file_name = f"{pdb_name}_EF{e + 1}.pdb"
+            with open(ef_hand_file_name, "w") as f:
                 f.write(f"REMARK    protein fasta: >id_{protein}\n")
                 f.write(f"REMARK    full seq: {seq}\n")
                 f.write(f"REMARK    motif type: {ef_dict[ef_list[e]][0]}\n")
@@ -113,14 +118,15 @@ amino_acid_codes = {
     "SER": "S","THR": "T","TRP": "W","TYR": "Y","VAL": "V"
 }
 
-if not os.path.exists("E:/Files/Coding Software/ChowdhuryVSC/Lanmodulin-data/ef_pdbs"):
-    os.mkdir("E:/Files/Coding Software/ChowdhuryVSC/Lanmodulin-data/ef_pdbs")
-os.chdir("E:/Files/Coding Software/ChowdhuryVSC/Lanmodulin-data/ef_pdbs")
+ef_dir = f"{base_path}/ef_pdbs"
+if not os.path.exists(ef_dir):
+    os.mkdir(ef_dir)
+os.chdir(ef_dir)
 
 #print(len(amino_acid_codes)) 
 ef_list = [(11, 23), (35, 47), (60, 72), (84, 96)] # <-- TODO: change this.
 
-mapping_file = "E:/Files/Coding Software/ChowdhuryVSC/Lanmodulin-data/index_to_tag_batch_no_dict.txt"
+mapping_file = f"{base_path}/index_to_tag_batch_no_dict.txt"
 mapping = {}
 value = set()
 with open(mapping_file, "r") as f:
@@ -151,15 +157,15 @@ def getFileContent(file_name):
 def removeElement(given_list, to_remove):
     while to_remove in given_list:
         given_list.remove(to_remove)
-ef_locations_file = "E:/Files/Coding Software/ChowdhuryVSC/Lanmodulin-data/EFHands_locations_result_list.txt"
+ef_locations_file = f"{base_path}/EFHands_locations_result_list.txt"
 ef_locations = getFileContent(ef_locations_file)
 removeElement(ef_locations, "")
-print(len(ef_locations))
+#print(len(ef_locations)) # <-- development and debug purposes
 
-proteins_file = "E:/Files/Coding Software/ChowdhuryVSC/Lanmodulin-data/proteins.txt"
+proteins_file = f"{base_path}/proteins.txt"
 proteins = getFileContent(proteins_file)
 removeElement(proteins, "")
-print(len(proteins))
+#print(len(proteins)) # <-- development and debug purposes
 
 def getCodeName(pdb_name):
     pdb_name_split = pdb_name.split("_")
@@ -171,6 +177,7 @@ def getCodeName(pdb_name):
     return "_".join(sol)
 
 print("Scrapping EF pdb from protein...")
+total_ef = 0
 for i in tqdm(range(len(ef_pdb_list))):
     #if i == 5: break
 
@@ -183,4 +190,7 @@ for i in tqdm(range(len(ef_pdb_list))):
     protein = proteins[idx_map * 2]
     seq = proteins[(idx_map * 2) + 1]
 
+    total_ef += len(list(eval(ef_locations[idx_map]).keys()))
     getEFHandPdb(ef_pdb_list[i], eval(ef_locations[idx_map]), protein, seq)
+
+print("Total ef hands:", total_ef)
