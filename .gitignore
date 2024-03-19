@@ -41,3 +41,10 @@ Thumbs.db
 _batches/
 pdbs/
 ef_pdbs/
+636_*
+EFhand.fasta
+EFhands.fasta
+build_test_data.py
+cite.bibtex
+config.json
+*.png
