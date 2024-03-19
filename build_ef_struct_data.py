@@ -6,6 +6,7 @@ from tqdm import tqdm
 
 # base working directory/path
 base_path = "/work/ratul1/chuen/Lanmodulin-data"
+base_path = "C:/Users/ty_ch/Documents/Projects/ChowdhuryVSC/Lanmodulin-data"
  
 #Biopython import
 from Bio.PDB import PDBParser
