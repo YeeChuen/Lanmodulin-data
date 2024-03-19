@@ -49,3 +49,6 @@ cite.bibtex
 config.json
 *.png
 USalign/
+*.sbatch
+*_sbatch_result
+ef_*
