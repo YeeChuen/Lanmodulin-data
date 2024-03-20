@@ -12,13 +12,22 @@ motif_dict = {}
 
 for file in files_in_ef:
     with open(file, 'r') as f:
-        first_line = f.readline().strip()
-        motif_type = first_line.split(":")[-1].strip()
-
-        if motif_type in motif_dict:
-            motif_dict[motif_type].append(os.path.basename(file))
+        """
+        third_line = f.readline().strip()
+        motif_type = third_line.split(":")[-1].strip()
+        """
+        motif_type = None
+        for i, line in enumerate(f):
+            if i == 2:
+                motif_type = line.strip()
+        
+        if motif_type:
+            if motif_type in motif_dict:
+                motif_dict[motif_type].append(os.path.basename(file))
+            else:
+                motif_dict[motif_type] = [os.path.basename(file)]
         else:
-            motif_dict[motif_type] = [os.path.basename(file)]
+            print(f"Motif type not found: {file}")
 
 for motif_type, pdb_files in motif_dict.items():
     print(f"Motif Type: {motif_type}")
@@ -26,7 +35,6 @@ for motif_type, pdb_files in motif_dict.items():
     for pdb_file in pdb_files:
         print(pdb_file)
     print()
-
 
 for key in motif_dict:
     print(key, len(motif_dict[key]))
