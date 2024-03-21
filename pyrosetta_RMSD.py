@@ -47,29 +47,33 @@ def main():
         print(f"Created file: {seq_le2_file}")
 
     ef_pdbs_list = os.listdir(ef_pdbs_path)
+
+    pose_dict = {}
+    for x in ef_pdbs_list:
+        pose_dict[f"{ef_pdbs_path}/{x}"] = pose_from_pdb(f"{ef_pdbs_path}/{x}")
+
     ef_pdbs_list = [f"{ef_pdbs_path}/{x}" for x in ef_pdbs_list]
 
     ef_dict = {}
     gr2_dict = {}
     le2_dict = {}
 
-    for m in range(len(ef_pdbs_list)):
-        i = ef_pdbs_list[m]
-
-        # v-- for loop starting from m + 1, because pairwise (1,2) is the same as (2,1)
-        #     also we don't need to check pairwise against itself (2,2).
-        for n in range(m + 1, len(ef_pdbs_list)):
-            j = ef_pdbs_list[n]
+    for i, key1 in enumerate(list(pose_dict.keys())):
+        print(f"currently on iter: {i}.")
+        for j, key2 in enumerate(list(pose_dict.keys())):
+            if j <= i: continue
+            pose1 = pose_dict[key1]
+            pose2 = pose_dict[key2]
 
             # v-- get the pdb file name rather than the whole path.
-            i_name = i.split("/")[-1]
-            j_name = j.split("/")[-1]
-
+            i_name = key1.split("/")[-1]
+            j_name = key2.split("/")[-1]
+            
             # v-- basic checker to make sure this pairwise is unique. (SHOULD BE UNIQUE.)
             if (i_name, j_name) in ef_dict: raise ValueError("\nEF pair already added to dictionary.\nDuplicate should not happen.")
             
-            rmsd = getPairwiseRMSD(i, j) # <-- get rmsd score from pyRosetta
-            if equalSequence(i, j): # <-- check if both pdb has the same sequence.
+            rmsd = CA_rmsd(pose1, pose2) # <-- get rmsd score from pyRosetta
+            if pose1.sequence() == pose2.sequence(): # <-- check if both pdb has the same sequence.
                 if rmsd > 0.2:
                     gr2_dict[(i_name, j_name)] = rmsd # <-- this is what we're interested in, same seq, different structure.
                 elif rmsd <= 0.2: 
@@ -77,18 +81,12 @@ def main():
             
             ef_dict[(i_name, j_name)] = rmsd # <-- save all pairwise comparison RMSD value.
 
-            #print(ef_dict)
-    
-            # v-- write to file
-            # ef_dict --> save_file 
-            # gr2_dict --> seq_gr2_file
-            # le2_dict --> seq_le2_file
-            with open(save_file, 'w') as f:
-                f.write(str(ef_dict))
-            with open(seq_gr2_file, 'w') as f:
-                f.write(str(gr2_dict))
-            with open(seq_le2_file, 'w') as f:
-                f.write(str(le2_dict))
+    with open(save_file, 'w') as f:
+        f.write(str(ef_dict))
+    with open(seq_gr2_file, 'w') as f:
+        f.write(str(gr2_dict))
+    with open(seq_le2_file, 'w') as f:
+        f.write(str(le2_dict))
 
     #pdb1 = "ef_pdbs/ABS68055-1_unrelaxed_rank_005_alphafold2_ptm_model_5_seed_000_EF1.pdb"
     #pdb2 = "ef_pdbs/ACB32191-1_unrelaxed_rank_005_alphafold2_ptm_model_4_seed_000_EF1.pdb"
