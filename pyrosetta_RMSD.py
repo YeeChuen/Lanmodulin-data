@@ -82,6 +82,10 @@ def main():
             ef_dict[(i_name, j_name)] = rmsd # <-- save all pairwise comparison RMSD value.
 
     with open(save_file, 'w') as f:
+        '''
+        for key in ef_dict:
+            f.write(f"{key}:{ef_dict[key]}")
+        '''
         f.write(str(ef_dict))
     with open(seq_gr2_file, 'w') as f:
         f.write(str(gr2_dict))
