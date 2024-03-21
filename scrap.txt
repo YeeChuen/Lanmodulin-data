@@ -115,3 +115,21 @@ variable = "Yee Chuen"
 
 save_name = f"{variable}"
 
+dict = {"key": "value"}
+dict = {"motif_type": ["seq_1", "seq_2", ...]}
+
+dict = {"motif_type": ["ABS68055...000_EF1.pdb", "ACA18767..._000_EF2.pdb", ...]}
+
+import os
+
+ef_dataset_path = "/Users/Chuen/Documents/vsc projects/lanmodulin_project/ef_pdbs"
+
+files_in_ef = os.listdir(ef_dataset_path) # <-- "ABS68055...000_EF1.pdb"
+files_in_ef = [f"{ef_dataset_path}/{x}" for x in files_in_ef] # <-- "/Users/Chuen/Documents/vsc projects/lanmodulin_project/ef_pdbs/ABS68055...000_EF1.pdb"
+print(files_in_ef)
+
+for file in files_in_ef:
+    with open(file, 'r') as f:
+        contents = f.readlines()
+        contents = [x.replace("\n", "") for x in contents]
+        print(contents[0])
