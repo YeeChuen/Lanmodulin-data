@@ -52,3 +52,4 @@ USalign/
 *.sbatch
 *_sbatch_result
 ef_*
+*.txt

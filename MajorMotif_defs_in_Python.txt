@@ -2,6 +2,7 @@
 # ^:= intersection as AND
 # V:= union as OR
 # \:= as set difference
+# python MajorMotif_defs_in_Python.txt
 
 import re
 

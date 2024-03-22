@@ -92,6 +92,16 @@ def main():
     with open(seq_le2_file, 'w') as f:
         f.write(str(le2_dict))
 
+    with open(save_file.replace(".txt", "_v2.txt"), 'w') as f:
+        for key in ef_dict:
+            f.write(f"{key}:{ef_dict[key]}\n")
+    with open(seq_gr2_file.replace(".txt", "_v2.txt"), 'w') as f:
+        for key in gr2_dict:
+            f.write(f"{key}:{gr2_dict[key]}\n")
+    with open(seq_le2_file.replace(".txt", "_v2.txt"), 'w') as f:
+        for key in le2_dict:
+            f.write(f"{key}:{le2_dict[key]}\n")
+
     #pdb1 = "ef_pdbs/ABS68055-1_unrelaxed_rank_005_alphafold2_ptm_model_5_seed_000_EF1.pdb"
     #pdb2 = "ef_pdbs/ACB32191-1_unrelaxed_rank_005_alphafold2_ptm_model_4_seed_000_EF1.pdb"
     #print(getPairwiseRMSD(pdb1, pdb2))
