@@ -167,15 +167,28 @@ def reportUniqueSeqInMotif():
     ef_hand_file_fasta = "EFhands.fasta"
     fasta_list = readFastaFile(ef_hand_file_fasta)
 
+    motif_def = {}
+    with open("Motif_info.txt") as f:
+        contents = f.readlines()
+        contents = [x.replace("\n", "") for x in contents if "motif" in x]
+        for line in contents:
+            motif_def[line.split(" = ")[0]] = line.split(" = ")[1]
+
     motif_dict = {}
+    motif_freq = {}
     for i in range(0, len(fasta_list), 2):
         motif_type = fasta_list[i].split("|")[-1]
         if motif_type not in motif_dict: motif_dict[motif_type] = set()
+        if motif_type not in motif_freq: motif_freq[motif_type] = []
+        motif_freq[motif_type].append(fasta_list[i + 1])
         motif_dict[motif_type].add(fasta_list[i + 1])
     
-    print("Number of unique sequence in each motif:")
+    
     for motif in motif_dict:
-        print(f"{motif}: {len(motif_dict[motif])}")
+        print("")
+        print(f"{motif} = {motif_def[motif]}")
+        print(f"No. Unique: {len(motif_dict[motif])}")
+        print(f"Total freq: {len(motif_freq[motif])}")
 
 # fix = "1-54,60-80" <-- in this format, the position number reflect number in pdb file.
 def proteinMPNN(pdb_file, fix, batch = 10, temperature = 0.1):
@@ -315,10 +328,10 @@ def motifMPNN():
 #______
 # main
 def main():
-    motifMPNN()
-    reportCystine()
+    #motifMPNN()
+    #reportCystine()
     reportUniqueSeqInMotif()
-    reportRMSDPairInfo()
+    #reportRMSDPairInfo()
 
 
 
