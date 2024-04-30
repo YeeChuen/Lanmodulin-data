@@ -32,6 +32,36 @@ print("example rmsd_dict value\n", rmsd_dict[('WP_124161803-1_unrelaxed_rank_005
 # NOTE: use the rmsd_dict for rmsd, you dont have to build your own dictionary. 
 
 ef_dataset_path = f"{user_path}/ef_pdbs"
+import numpy as np
+import matplotlib.pyplot as plt
+
+user_path = "C:/Users/ty_ch/Documents/Projects/ChowdhuryVSC/Lanmodulin-data" # <-- TODO: change to your path
+
+from tqdm import tqdm
+
+def getDictFromFile(file):
+    sol = {}
+    with open(file, 'r') as f:
+        contents = f.readlines()
+        contents = [x.strip() for x in contents if x.strip()] 
+
+        print(f"Loading from {file}...")
+        for x in tqdm(contents):
+            # Splitting the line into tuple (pairs) and RMSD score
+            pair, rmsd = x.split(':')
+            pair = eval(pair)  # Convert the string representation of tuple to actual tuple
+            rmsd = float(rmsd)
+
+            sol[pair] = rmsd
+            
+    return sol
+
+# Using the function to get the dictionary
+rmsd_dict = getDictFromFile("ef_rmsd_result_v2.txt")
+print("example rmsd_dict value\n", rmsd_dict[('WP_124161803-1_unrelaxed_rank_005_alphafold2_ptm_model_3_seed_000_EF3.pdb', 'WP_225712291-1_unrelaxed_rank_005_alphafold2_ptm_model_5_seed_000_EF2.pdb')])
+# NOTE: use the rmsd_dict for rmsd, you dont have to build your own dictionary. 
+
+ef_dataset_path = f"{user_path}/ef_pdbs"
 
 files_in_ef = os.listdir(ef_dataset_path)
 if ".DS_Store" in files_in_ef: files_in_ef.remove(".DS_Store")
@@ -44,6 +74,8 @@ for file in files_in_ef:
         motif_type = None
         for i, line in enumerate(f):
             if i == 2:
+                motif_type = line.strip().split(":")[-1].strip()
+                break
                 motif_type = line.strip().split(":")[-1].strip()
                 break
         
@@ -75,9 +107,29 @@ def heatmapPlot(data, save_name, title = "halo"): # # <-- NOTE: having default h
 for motif_type in motif_dict:
     pdb_name_list = motif_dict[motif_type]
     data = np.zeros((len(pdb_name_list), len(pdb_name_list)))
+    
+    # Nested loop starts here
+    
+    # This is just an example, it is incorrect.
+    for i, pdb1 in enumerate(files_in_ef):
+        for j, pdb2 in enumerate(files_in_ef):
+            pdb1_name = os.path.basename(pdb1)
+            pdb2_name = os.path.basename(pdb2)
+            '''
+            if pdb1_name != pdb2_name:
+                rmsd_value = rmsd_dict.get((pdb1_name, pdb2_name), None)
+                if rmsd_value is not None:
+                    heatmap_matrix[i, j] = rmsd_value
+                else:
+                    heatmap_matrix[i, j] = np.nan
+            '''
+    
+    heatmapPlot(data, "example_heatmap.png", "Example Title")
+
+    data = np.zeros((len(pdb_name_list), len(pdb_name_list)))
 
     # TODO: implement nested loop here
-    for i, pdb1_name in tqdm(enumerate(pdb_name_list)):
+    for i, pdb1_name in enumerate(pdb_name_list):
         for j, pdb2_name in enumerate(pdb_name_list):
             if j <= i: continue
             value = 0
