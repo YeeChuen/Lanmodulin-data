@@ -39,8 +39,6 @@ Thumbs.db
 # project folder to ignore #
 ############################
 _batches/
-pdbs/
-ef_pdbs/
 636_*
 USalign/
 old/
