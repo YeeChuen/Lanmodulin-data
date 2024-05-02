@@ -1,0 +1,20 @@
+PDB File: 8FNS.pdb
+Energy before relaxation: -87.50731814399781
+Energy after relaxation: -327.54370182390454
+
+PDB File: 8FNS_EF1.pdb
+Energy before relaxation: 31.864556814814023
+Energy after relaxation: -18.570815812235615
+
+PDB File: 8FNS_EF2.pdb
+Energy before relaxation: 36.08303882268997
+Energy after relaxation: -18.42834847798244
+
+PDB File: 8FNS_EF3.pdb
+Energy before relaxation: 34.24284889343667
+Energy after relaxation: -21.197682877765576
+
+PDB File: 8FNS_EF4.pdb
+Energy before relaxation: 35.43242743842864
+Energy after relaxation: -16.371053160668758
+
