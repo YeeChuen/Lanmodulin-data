@@ -53,3 +53,7 @@ USalign/
 *_sbatch_result
 ef_*
 *.txt
+old/
+scatter plots/
+rmsd/
+old-4-30-2024/
