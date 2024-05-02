@@ -1,0 +1,24 @@
+As of 4/30/2024
+
+Ratul request to scrap previous work, store at directory:
+cd /work/ratul1/chuen/Lanmodulin-data/old-4-30-2024
+
+new work:
+A Full LanM protein sequence is arranged into these nine fragments
+Head + EF1 + Linker1 + EF2 + Linker2 + EF3 + Linker3 + EF4 + Tail
+Aim for this phase: To design shorter sequences which contain two EF hands only, and let RFDiffusion design the linkers, head, and tail
+We will call the shorter sequences with 2 hands hereafter as: HalfDesigns
+From the list of individual hands whose energies you have measured in the excel above - note that the ones with more negative energies are more stable.
+Pick the top 15 most stable EF2 hands, top 15 EF3 hands, top 5 EF1 hands, top 5 EF4 hands - ignore rest
+For the 2H designs make all possibilities for all the following five cases
+Case 1:  Head + EF2 + Linker2 + EF3 + Tail  (Head and Linker 2 should come from the original LanM sequence where EF2 comes from ; Tail comes from the original LanM sequence where EF3 comes from) (225 cases)
+Case 2: Head + EF1 + Linker1 + EF2 + Tail (same logic follows for choosing Head, Linker1, and Tail) (75 cases)
+Case 3: Head + EF4 + Linker1 + EF2 + Tail (75 cases)
+Case 4: Head + EF1 + Linker1 + EF3 + Tail (75 cases)
+Case 5: Head + EF4 + Linker1 + EF3 + Tail (75 cases)
+This will give you - Total 525 cases = 225 + (75x5)
+Make these mutant sequences using PyRosetta and energy minimize them
+We will take top 10  HalfDesigns for each of the 5 Cases based on the lowest energies Total 50 designs
+Run RFDiffusion on these 50 sequences and design 10 sequences from each - where the head, linkers, and tail are allowed to vary. The EF hand sequences should remain fixed.
+First get to Step 6, and then we should meet, and then let's run Step7
+Please make a folder in Cybox inside our group folder and keep storing all results in proper subfolders and may be a doc file with these instructions that I sent and wherever you are at. Put a check mark on that doc for things that get done.
