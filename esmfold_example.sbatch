@@ -18,10 +18,11 @@
 # LOAD MODULES, INSERT CODE, AND RUN YOUR PROGRAMS HERE
 
 # cd to your project directory
-cd /work/ratul1/chuen/rfdiffusion/RFdiffusion
+cd /work/ratul1/chuen/Lanmodulin-data
 
-# load esmfold
-module load esmfold
+# load esmfold module
+module load esm
 
 # run esmfold script
 esmfold_inference.py -i esmfold_example.fasta  -o esmfold
+# python custom_script.py
