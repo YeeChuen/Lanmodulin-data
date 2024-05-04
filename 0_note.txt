@@ -1,4 +1,4 @@
-As of 4/30/2024
+As of 5/4/2024
 
 Ratul request to scrap previous work, store at directory:
 cd /work/ratul1/chuen/Lanmodulin-data/old-4-30-2024
