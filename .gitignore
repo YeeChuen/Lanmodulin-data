@@ -43,5 +43,6 @@ _batches/
 USalign/
 old/
 scatter plots/
-rmsd/
+rmsd/PR_rmsd_*
+rmsd/PR_rmsd_*_sbatch_result
 old-4-30-2024/

@@ -1,0 +1,1 @@
+rmsd/ef_rmsd_result* filter=lfs diff=lfs merge=lfs -text
